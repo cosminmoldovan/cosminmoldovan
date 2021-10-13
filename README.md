@@ -1,6 +1,6 @@
 👋 Hi, I'am Cosmin Moldovan, a Front-End Software Engineer. <br>
 ------------------------------------------------------------------------------------------------------------------------------------- <br>
-🫀 I'm interested in Web Design & Development, E-commerce and Digital Marketing <br>
+💗 I'm interested in Web Design & Development, E-commerce and Digital Marketing <br>
 ------------------------------------------------------------------------------------------------------------------------------------- <br>
 🧠 I'm currently learning React <br>
 ------------------------------------------------------------------------------------------------------------------------------------- <br>
