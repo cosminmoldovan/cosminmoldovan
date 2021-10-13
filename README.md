@@ -1,6 +1,6 @@
 [ 👋 ] Hi, I'am Cosmin Moldovan <br>
 .......................................................................................... <br>
-[ 🫀 ] I'm interested in Web Design & Development, E-commerce and Digital Marketing
+[:heartbeat:] I'm interested in Web Design & Development, E-commerce and Digital Marketing
 .......................................................................................... <br>
 [ 🧠 ] I'm currently learning React <br>
 .......................................................................................... <br>
@@ -8,7 +8,7 @@
 .......................................................................................... <br>
 [ 📂 ] Check out my portfolio: ↳ www.cosminmoldovan.com <br>
 .......................................................................................... <br>
-[ 🐱 ] GitHub: ↳ https://github.com/cosminmoldovan <br>
+[ :octocat: ] GitHub: ↳ https://github.com/cosminmoldovan <br>
 .......................................................................................... <br>
 [ 🔥 ] freeCodeCamp: ↳ https://www.freecodecamp.org/cosmin-moldovan <br>
 .......................................................................................... <br>
