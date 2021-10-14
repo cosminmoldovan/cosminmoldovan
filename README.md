@@ -14,7 +14,6 @@ soon...
 <!-- ⚔️ -->
 <!-- ## <img src = "https://drive.google.com/uc?id=1MiD0Zngau0zqpOCRmHdZgZC-HBX6LIFf" width = 28px>&ensp;Skills -->
 ## <img src = "https://drive.google.com/uc?id=1KDjQnR1O_7Pbaeh9M-Bi66rKNg02Mtvd" width = 28px>&ensp;Skills
-
 <table>
   <thead>
     <tr>
