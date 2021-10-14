@@ -15,4 +15,4 @@ soon...
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_cosminmoldovan)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />](cosmin.moldovan@prrotonmail.com)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:cosmin.moldovan@prrotonmail.com)
