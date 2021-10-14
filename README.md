@@ -11,7 +11,7 @@ soon...
 
 soon...
 
-## Connect with me <img src = "https://drive.google.com/uc?id=1fGc8lbUmYCMgwX6kC1C9U7dwQ0iPx7jJ" width = "32px">
+## Connect with me <img alt="high-five" src = "https://drive.google.com/uc?id=1fGc8lbUmYCMgwX6kC1C9U7dwQ0iPx7jJ" width = "32px">
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
