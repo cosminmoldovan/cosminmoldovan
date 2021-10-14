@@ -4,6 +4,9 @@ Frontend Web Developer.
 
 soon...
 
+## 🖥️ Projects
+
+soon...
 
 ## ⚔️ Skills
 
