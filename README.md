@@ -1,6 +1,11 @@
 # <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital!
 
-Frontend Web Developer.
+
+
+Frontend Web Developer. <br>
+
+📂 Portfolio: [CosminMoldovan.com](https://www.linkedin.com/in/cosmin-moldovan/) <br>
+📄 Resume: [Download Resume](https://www.linkedin.com/in/cosmin-moldovan/) <br>
 
 soon...
 
