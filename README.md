@@ -15,7 +15,44 @@ soon...
 <!-- ## <img src = "https://drive.google.com/uc?id=1MiD0Zngau0zqpOCRmHdZgZC-HBX6LIFf" width = 28px>&ensp;Skills -->
 ## <img src = "https://drive.google.com/uc?id=1KDjQnR1O_7Pbaeh9M-Bi66rKNg02Mtvd" width = 28px>&ensp;Skills
 
-soon...
+<table>
+  <thead>
+    <tr>
+      <th>Front-End</th>
+      <th>Back-End</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>- [x] HTML5</li>
+          <li>- [x] CSS3</li>
+          <li>- [x] JavaScript</li>
+          <li>- [ ] React</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>- [x] PHP</li>
+          <li>- [x] SQL</li>
+          <li>- [ ] MongoDB</li>
+          <li>- [ ] Node.js</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2">
+        <ul>
+          <li>if the box is checked it means I master the technology</li>
+          <li>if the box is unchecked it means that I am still learning or about to learn</li>
+        </ul>
+    </tr>
+  </tfoot>
+</table>
+
 <!-- 👥 -->
 ##  <img src = "https://drive.google.com/uc?id=1wNddCg-aNIZkv01OqitS47sRgOOaDK25" width = 28px>&ensp;Connect with me 
 
