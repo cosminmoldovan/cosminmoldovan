@@ -1,16 +1,15 @@
-# <img src = "https://drive.google.com/uc?id=13Db4Gc_3rTbufBJM0wlamgDDebUtldgs" width="100%">
-# <img src = "https://drive.google.com/uc?id=1yOAFWGbxzdXHkD0SLVIjRtGk8EMTuSVD" width = 100px> Hi Devs, let's build the future of digital!
+# <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital!
 
 Frontend Web Developer.
 
 soon...
 
 
-## Skills <img src = "https://drive.google.com/uc?id=1PryJCnkBtSri2U5xXcuH5wE419SZJEOt" width = 32px>
+## ⚔️ Skills
 
 soon...
 
-## Connect with me <img alt="high-five" src = "https://drive.google.com/uc?id=1MlDXjKCePZOow2YWsQA60Sb5mnv0WFCU" width = "32px">
+## 👥 Connect with me 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
