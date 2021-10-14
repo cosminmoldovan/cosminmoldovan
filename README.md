@@ -1,4 +1,4 @@
-# <img src = "https://drive.google.com/uc?id=1yOAFWGbxzdXHkD0SLVIjRtGk8EMTuSVD" width = 100px> Hi Devs, let's build the future!
+# <img src = "https://drive.google.com/uc?id=1yOAFWGbxzdXHkD0SLVIjRtGk8EMTuSVD" width = 100px> Hi Devs, let's build the future of digital!
 
 Frontend Web Developer.
 
