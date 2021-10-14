@@ -1,7 +1,5 @@
 # <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future!
 
-## About Me
-
 Frontend Web Developer.
 
 soon...
