@@ -4,8 +4,8 @@
 
 Frontend Web Developer. <br>
 
-📂 Portfolio: [CosminMoldovan.com](https://www.linkedin.com/in/cosmin-moldovan/) <br>
-📄 Resume: [Download Resume](https://www.linkedin.com/in/cosmin-moldovan/) <br>
+> Portfolio: [CosminMoldovan.com](https://www.linkedin.com/in/cosmin-moldovan/) <br>
+> Resume: [Download Resume](https://www.linkedin.com/in/cosmin-moldovan/) <br>
 
 soon...
 
