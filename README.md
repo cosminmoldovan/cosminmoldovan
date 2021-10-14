@@ -1,4 +1,4 @@
-# <img src = "https://cliply.co/wp-content/uploads/2019/05/371905140_MEET_ROBOT_400px.gif" width = 50px> Hi Devs, let's build the future!
+# <img src = "https://cliply.co/wp-content/uploads/2019/05/371905140_MEET_ROBOT_400px.gif" width = 100px> Hi Devs, let's build the future!
 
 I'm a Cybersecurity Analyst and Frontend Web Developer.
 
