@@ -1,4 +1,5 @@
-# <img src="https://user-images.githubusercontent.com/51231879/137275009-7931c856-6437-4352-be81-5aafa3d1fa7e.png"> Let's build the future of the web <br>
+# Let's build the future of the web <br>
+<img src="https://user-images.githubusercontent.com/51231879/137275009-7931c856-6437-4352-be81-5aafa3d1fa7e.png">
 👋 Hi, I'am Cosmin Moldovan, a Front-End Software Engineer. <br>
 ------------------------------------------------------------------------------------------------------------------------------------- <br>
 💗 I'm interested in Web Design & Development, E-commerce and Digital Marketing <br>
