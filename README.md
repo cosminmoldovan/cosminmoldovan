@@ -1,5 +1,5 @@
 <!-- # <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital! -->
-# <img src = "https://drive.google.com/uc?id=1yOAFWGbxzdXHkD0SLVIjRtGk8EMTuSVD" width = 64px> Hi Devs, let's build the future of digital!
+# <img src = "https://s9.gifyu.com/images/rocket02f97e12639ef248.gif" width = 64px> Hi Devs, let's build the future of digital!
 
 Frontend Web Developer. <br>
 
@@ -8,12 +8,12 @@ Frontend Web Developer. <br>
 
 soon...
 <!-- 🖥️ -->
-##  <img src = "https://drive.google.com/uc?id=1CVurOE7H3XFn0I7lWQ9wqbq_nniP4bTZ" width = 28px>&ensp;Projects
+##  <img src = "https://s9.gifyu.com/images/folder10d324063e782113.gif" width = 32px>&ensp;Projects
 
 soon...
 <!-- ⚔️ -->
-<!-- ## <img src = "https://drive.google.com/uc?id=1MiD0Zngau0zqpOCRmHdZgZC-HBX6LIFf" width = 28px>&ensp;Skills -->
-## <img src = "https://drive.google.com/uc?id=1KDjQnR1O_7Pbaeh9M-Bi66rKNg02Mtvd" width = 28px>&ensp;Skills
+<!-- ## <img src = "https://drive.google.com/uc?id=175YFQc64tSyE9GSMyLjjDAKj3Agh9031" width = 28px>&ensp;Skills -->
+## <img src = "https://s9.gifyu.com/images/brain.gif" width = 32px>&ensp;Skills
 <table>
   <thead>
     <tr>
@@ -53,7 +53,7 @@ soon...
 </table>
 
 <!-- 👥 -->
-##  <img src = "https://drive.google.com/uc?id=1wNddCg-aNIZkv01OqitS47sRgOOaDK25" width = 28px>&ensp;Connect with me 
+##  <img src = "https://s9.gifyu.com/images/oie_15114133xLzYY0Hs.gif" width = 32px>&ensp;Connect with me 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
