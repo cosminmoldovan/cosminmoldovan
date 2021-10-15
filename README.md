@@ -42,8 +42,8 @@ soon...
   <tfoot>
     <tr>
       <td colspan="2">
-          <sup><sup><sub>🔴</sub></sup>&ensp;Bronze 10% - 30%</sup></sup>&emsp;&emsp;<sup><sup><sub>🟡</sub></sup>&ensp;Gold 70% - 90%</sup><br>
-          <sup><sup><sub>⚫</sub></sup>&ensp;Silver 30% - 50%</sup></sup>&emsp;&emsp;&ensp;<sup><sup><sub>🔵</sub></sup>&ensp;Diamond 90% - 100%</sup>
+          <sup><sup><sub>🔴</sub></sup>&ensp;Bronze - Knight > 15%</sup></sup>&emsp;&emsp;<sup><sup><sub>🟡</sub></sup>&ensp;Gold - King > 80% </sup><br>
+          <sup><sup><sub>⚫</sub></sup>&ensp;Silver - Baron > 50%</sup></sup>&emsp;&emsp;&ensp;<sup><sup><sub>🔵</sub></sup>&ensp;Diamond - Sage > 90%</sup>
       </td/>
     </tr>
   </tfoot>
