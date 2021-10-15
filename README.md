@@ -13,7 +13,7 @@ soon...
 soon...
 <!-- ⚔️ -->
 <!-- ## <img src = "https://drive.google.com/uc?id=175YFQc64tSyE9GSMyLjjDAKj3Agh9031" width = 28px>&ensp;Skills -->
-## <img src = "https://s9.gifyu.com/images/brain.gif" width = 32px>&ensp;Skills
+## <img src = "https://s9.gifyu.com/images/developer.gif" width = 32px>&ensp;Skills
 <table>
   <thead>
     <tr>
@@ -53,7 +53,7 @@ soon...
 </table>
 
 <!-- 👥 -->
-##  <img src = "https://s9.gifyu.com/images/oie_15114133xLzYY0Hs.gif" width = 32px>&ensp;Connect with me 
+##  <img src = "https://s9.gifyu.com/images/handsabb89ed4e5dca6fe.gif" width = 32px>&ensp;Connect with me 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
