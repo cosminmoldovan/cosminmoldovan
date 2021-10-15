@@ -1,9 +1,6 @@
 <!-- # <sub><img src = "https://i.postimg.cc/dtLRKm2z/robot2.gif" width = 100px></sub> Hi Devs, let's build the future of digital! -->
-<!-- # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = 64px></sub> Hello Devs! -->
-# <sub><img src = "https://i.postimg.cc/hvqBbNzW/buzz.gif" width = 100px></sub> Hello Devs!
+# <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = 64px></sub> Hello Devs!
 <!-- # <sub><img src = "https://i.postimg.cc/85QQ8Qys/earth.gif" width = 64px></sub> Hi Devs, let's build the future of digital!  -->
-<!-- # <sub><img src = "https://i.postimg.cc/9fv4v05T/planets.gif" width = 150px></sub> Hi Devs, let's build the future of digital!  -->
-
 
 Frontend Web Developer. <br>
 
@@ -21,25 +18,41 @@ soon...
 <table>
   <thead>
     <tr>
-      <th>Front-End</th>
-      <th>Back-End</th>
+      <th>Rank</th>
+      <th>Progamming languages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <p><sub><img src="https://i.postimg.cc/NMJmhpsz/gold-shield.png" width="16px"></sub>&ensp;HTML5</p>
-          <p><sub><img src="https://i.postimg.cc/wMnNMMs5/silver-shield.png" width="16px"></sub>&ensp;CSS3</p>
-          <p><sub><img src="https://i.postimg.cc/SRn8mCjN/bronze-shield.png" width="16px"></sub>&ensp;JavaScript</p>
-         <p><sub><img src="https://i.postimg.cc/G2xr958X/diamond-shield.png" width="16px"></sub>&ensp;React</p>
+      <td align="center">
+        <sub><img src="https://i.postimg.cc/G2xr958X/diamond-shield.png" width="16px"></sub>
       </td>
       <td>
-        <ul>
-          <li>- [x] PHP</li>
-          <li>- [x] SQL</li>
-          <li>- [ ] MongoDB</li>
-          <li>- [ ] Node.js</li>
-        </ul>
+        HYML5 &bull; CSS3 &bull; JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub><img src="https://i.postimg.cc/NMJmhpsz/gold-shield.png" width="16px"></sub>
+      </td>
+      <td>
+        C/C++ &bull; SQL &bull;
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub><img src="https://i.postimg.cc/wMnNMMs5/silver-shield.png" width="16px"></sub>
+      </td>
+      <td>
+        PHP &bull; Matlab
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub><img src="https://i.postimg.cc/SRn8mCjN/bronze-shield.png" width="16px"></sub>
+      </td>
+      <td>
+        React
       </td>
     </tr>
   </tbody>
