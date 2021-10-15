@@ -24,10 +24,10 @@ soon...
   <tbody>
     <tr>
       <td>
-        <p><sup>▣▣▣▣▣▣▣▣▣▢ 90%</sup>&ensp;<sup>HTML5</sup></p>
-          <p><sup>▣▣▣▣▣▣▣▣▣▢ 95%</sup>&ensp;CSS3</p>
-          <p><sup>▣▣▣▣▣▣▣▣▢▢ 75%</sup>&ensp;JavaScript</p>
-          <p><sup>▣▢▢▢▢▢▢▢▢▢ 10%</sup>&ensp;React</p>
+        <p><sub><img src="https://i.postimg.cc/NMJmhpsz/gold-shield.png" width="16px"></sub>&ensp;HTML5</p>
+          <p><sub><img src="https://i.postimg.cc/wMnNMMs5/silver-shield.png" width="16px"></sub>&ensp;CSS3</p>
+          <p><sub><img src="https://i.postimg.cc/SRn8mCjN/bronze-shield.png" width="16px"></sub>&ensp;JavaScript</p>
+         <p><sub><img src="https://i.postimg.cc/G2xr958X/diamond-shield.png" width="16px"></sub>&ensp;React</p>
       </td>
       <td>
         <ul>
