@@ -2,7 +2,7 @@
 # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = 64px></sub> Hello Devs!
 <!-- # <sub><img src = "https://i.postimg.cc/85QQ8Qys/earth.gif" width = 64px></sub> Hi Devs, let's build the future of digital!  -->
 
-Hi :wave: I'm Cosmin, Web Developer and Interface Designer. <br>
+I'm Cosmin, Web Developer and Interface Designer. <br>
 
 
 &emsp; Portfolio&nbsp; [visit &#10141;](https://www.linkedin.com/in/cosmin-moldovan/) <br>
