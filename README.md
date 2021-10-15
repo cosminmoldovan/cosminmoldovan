@@ -1,5 +1,5 @@
 <!-- # <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital! -->
-# <img src = "https://s9.gifyu.com/images/rocket02f97e12639ef248.gif" width = 64px> Hi Devs, let's build the future of digital!
+# <sub><img src = "https://s9.gifyu.com/images/rocket02f97e12639ef248.gif" width = 64px></sub> Hi Devs, let's build the future of digital!
 
 Frontend Web Developer. <br>
 
@@ -13,7 +13,7 @@ soon...
 soon...
 <!-- ⚔️ -->
 <!-- ## <img src = "https://drive.google.com/uc?id=175YFQc64tSyE9GSMyLjjDAKj3Agh9031" width = 28px>&ensp;Skills -->
-## <img src = "https://s9.gifyu.com/images/developer.gif" width = 32px>&ensp;Skills
+## <sub><img src = "https://s9.gifyu.com/images/developer.gif" width = 32px></sub>&ensp;Skills
 <table>
   <thead>
     <tr>
