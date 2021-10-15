@@ -1,5 +1,5 @@
-# <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital!
-<!-- # <img src = "https://s9.gifyu.com/images/rocket02f97e12639ef248.gif" width = 64px> Hi Devs, let's build the future of digital! -->
+<!-- # <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital! -->
+# <sub><img src = "https://i.postimg.cc/q7yfzrpd/rocket.gif" width = 80px></sub> Hi Devs, let's build the future of digital!
 
 Frontend Web Developer. <br>
 
