@@ -16,7 +16,7 @@ soon...
 soon...
 <!-- ⚔️ -->
 <!-- ## <img src = "https://drive.google.com/uc?id=175YFQc64tSyE9GSMyLjjDAKj3Agh9031" width = 28px>&ensp;Skills -->
-## <sub><img src = "https://s9.gifyu.com/images/developer.gif" width = 32px></sub>&ensp;Skills
+## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = 32px></sub>&ensp;Skills
 <table>
   <thead>
     <tr>
