@@ -1,5 +1,5 @@
 <!-- # <p align="center"><sub><img src = "https://i.postimg.cc/dtLRKm2z/robot2.gif" width = 100px></sub><br> Hi Devs, let's build the future of digital!</p> -->
-# <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = 64px></sub> Hi Devs, let's build the future of digital!
+# Hi Devs, let's build the future of digital! <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = 64px></sub>
 
 Frontend Web Developer. <br>
 
