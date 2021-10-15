@@ -42,10 +42,9 @@ soon...
   <tfoot>
     <tr>
       <td colspan="2">
-        <ul>
-          <li>if the box is checked it means I master the technology</li>
-          <li>if the box is unchecked it means that I am still learning or about to learn</li>
-        </ul>
+          <sup><sup><sub>🔴</sub></sup>&ensp;Bronze 10% - 30%</sup></sup>&emsp;&emsp;<sup><sup><sub>🟡</sub></sup>&ensp;Gold 70% - 90%</sup><br>
+          <sup><sup><sub>⚫</sub></sup>&ensp;Silver 30% - 50%</sup></sup>&emsp;&emsp;&ensp;<sup><sup><sub>🔵</sub></sup>&ensp;Diamond 90% - 100%</sup>
+      </td/>
     </tr>
   </tfoot>
 </table>
