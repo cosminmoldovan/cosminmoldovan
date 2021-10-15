@@ -26,7 +26,7 @@ soon...
       <td>
         <ul>
           <li>- [x] HTML5&ensp;<sup>90%</sup></li>
-          <li>- [x] CSS3&ensp;<sup>85%</sup></li>
+          <li>- [x] CSS3&ensp;<sub>80%<sup> [progress]</sup></sub></li>
           <li>- [x] JavaScript&ensp;<sup>75%</sup></li>
           <li>- [ ] React&ensp;<sup>10%</sup></li>
         </ul>
