@@ -24,12 +24,10 @@ soon...
   <tbody>
     <tr>
       <td>
-        <ul>
-          <li>- [x] HTML5&ensp;<sup>90%</sup></li>
-          <li>- [x] CSS3&ensp;<sub>80%<sup> [progress]</sup></sub></li>
-          <li>- [x] JavaScript&ensp;<sup>75%</sup></li>
-          <li>- [ ] React&ensp;<sup>10%</sup></li>
-        </ul>
+        <p><sup>▣▣▣▣▣▣▣▣▣▢ 90%</sup>&ensp;<sup>HTML5</sup></p>
+          <p><sup>▣▣▣▣▣▣▣▣▣▢ 95%</sup>&ensp;CSS3</p>
+          <p><sup>▣▣▣▣▣▣▣▣▢▢ 75%</sup>&ensp;JavaScript</p>
+          <p><sup>▣▢▢▢▢▢▢▢▢▢ 10%</sup>&ensp;React</p>
       </td>
       <td>
         <ul>
