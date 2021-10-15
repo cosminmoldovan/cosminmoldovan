@@ -1,5 +1,5 @@
-<!-- # <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital! -->
-# <img src = "https://s9.gifyu.com/images/rocket02f97e12639ef248.gif" width = 64px> Hi Devs, let's build the future of digital!
+# <img src = "https://drive.google.com/uc?id=1IJzkX7LAnbaS807_iHBukPIhszRbU6Ro" width = 100px> Hi Devs, let's build the future of digital!
+<!-- # <img src = "https://s9.gifyu.com/images/rocket02f97e12639ef248.gif" width = 64px> Hi Devs, let's build the future of digital! -->
 
 Frontend Web Developer. <br>
 
@@ -50,7 +50,7 @@ soon...
 </table>
 
 <!-- 👥 -->
-##  <img src = "https://s9.gifyu.com/images/handsabb89ed4e5dca6fe.gif" width = 32px>&ensp;Connect with me 
+##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = 32px></sub>&ensp;Connect with me 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
