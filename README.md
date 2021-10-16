@@ -37,7 +37,7 @@ soon...
         <sub><img src="https://i.postimg.cc/NMJmhpsz/gold-shield.png" width="16px"></sub>
       </td>
       <td>
-        C/C++ &bull; SQL &bull;
+        C/C++ &bull; SQL
       </td>
     </tr>
     <tr>
@@ -60,8 +60,8 @@ soon...
   <tfoot>
     <tr>
       <td colspan="2">
-          <sup><sup><sub>🔴</sub></sup>&ensp;Bronze > 15%</sup></sup>&emsp;&emsp;<sup><sup><sub>🟡</sub></sup>&ensp;Gold > 80%</sup><br>
-          <sup><sup><sub>⚫</sub></sup>&ensp;Silver > 50%</sup></sup>&emsp;&emsp;&ensp;<sup><sup><sub>🔵</sub></sup>&ensp;Diamond > 90%</sup>
+        <sup><sup><sub>🔴</sub></sup>&ensp;Bronze > 15%</sup></sup>&emsp;&emsp;<sup><sup><sub>🟡</sub></sup>&ensp;Gold > 80%</sup><br>
+        <sup><sup><sub>⚫</sub></sup>&ensp;Silver > 50%</sup></sup>&emsp;&emsp;&ensp;<sup><sup><sub>🔵</sub></sup>&ensp;Diamond > 90%</sup>
       </td/>
     </tr>
   </tfoot>
