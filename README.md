@@ -23,7 +23,7 @@ soon...
   <thead>
     <tr>
       <th>Rank</th>
-      <th>Progamming languages</th>
+      <th>Programming languages</th>
     </tr>
   </thead>
   <tbody>
