@@ -1,12 +1,12 @@
 <!-- # <sub><img src = "https://i.postimg.cc/dtLRKm2z/robot2.gif" width = "100px"></sub> Hi Devs, let's build the future of digital! -->
 # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs!
 <!-- # <sub><img src = "https://i.postimg.cc/85QQ8Qys/earth.gif" width = "64px"></sub> Hi Devs, let's build the future of digital!  -->
-#### I’m Cosmin, a front-end web developer.
+#### I’m Cosmin, a front-end web developer. 
 
-- Eficient coder and self-proclaimed creative designer.
-- Specialized in translate UI/UX designs into pixel-perfect websites and applications that are responsive and run fast.
+- An eficient coder and self-proclaimed creative designer.
+- I'm specialized in translate UI/UX designs into pixel-perfect websites and applications that are responsive and run fast.
 - I have an eye for detail and a passion to achieve perfection.
-[Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) | [Resume](https://www.linkedin.com/in/cosmin-moldovan)
+#### Useful Links [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) | [Resume](https://www.linkedin.com/in/cosmin-moldovan) | [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
 <!-- 🖥️ -->
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
