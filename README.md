@@ -16,8 +16,8 @@ soon...
 
 soon...
 <!-- ⚔️ -->
-## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills
-<!-- ## <sub><img src = "https://i.postimg.cc/X7645Ywx/arrow.png" width = "32px"></sub>&ensp;Skills -->
+## <sub><img src = "https://i.postimg.cc/7YTq6z7h/services.gif" width = "32px"></sub>&ensp;Skills
+<!-- ## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills -->
 
 <table>
   <thead>
