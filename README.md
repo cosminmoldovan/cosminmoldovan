@@ -68,7 +68,7 @@ soon...
     </tr>
   </tfoot>
 </table> -->
-<table>
+<!-- <table>
   <tr>
     <th>Programming</th>
     <th>Frontend</th>
@@ -94,15 +94,13 @@ soon...
       soon..
     </td>
     <td>
-      <sup>
         VSCode<br>
         Figma<br>
         Vivaldi<br>
         Ubuntu<br>
-      </sup>
     </td>
   </tr>
-<table>
+<table> -->
 
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
