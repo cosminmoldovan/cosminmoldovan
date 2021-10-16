@@ -10,6 +10,7 @@ I'm Cosmin, Web Developer and Interface Designer. <br>
 
 soon...
 <!-- 🖥️ -->
+##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
 ##  <sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub>&ensp;Projects
 ##  <img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px">&ensp;Projects
 
