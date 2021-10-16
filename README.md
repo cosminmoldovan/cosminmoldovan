@@ -10,13 +10,13 @@ I'm Cosmin, Web Developer and Interface Designer. <br>
 
 soon...
 <!-- 🖥️ -->
-##  <img src = "https://s9.gifyu.com/images/folder10d324063e782113.gif" width = "32px">&ensp;Projects
+##  <sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub>&ensp;Projects
 <!-- ##  <sub><img src = "https://i.postimg.cc/c4Rq0w5Z/file.png" width = "32px"></sub>&ensp;Projects -->
 
 
 soon...
 <!-- ⚔️ -->
-## <sub><img src = "https://i.postimg.cc/7YTq6z7h/services.gif" width = "32px"></sub>&ensp;Skills
+## <sub><img src = "https://i.postimg.cc/HLh4WFXf/todo-list.gif" width = "32px"></sub>&ensp;Skills
 <!-- ## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills -->
 
 <table>
