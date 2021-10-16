@@ -18,7 +18,7 @@ soon...
 ## <sub><img src = "https://i.postimg.cc/HLh4WFXf/todo-list.gif" width = "32px"></sub>&ensp;Skills
 <!-- ## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills -->
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Rank</th>
@@ -67,7 +67,42 @@ soon...
       </td/>
     </tr>
   </tfoot>
-</table>
+</table> -->
+<table>
+  <tr>
+    <th>Programming</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Databases</th>
+    <th>Cloud</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>
+      C++
+    </td>
+    <td>
+      HTML
+    </td>
+    <td>
+      PHP
+    </td>
+    <td>
+      MySQL
+    </td>
+    <td>
+      soon..
+    </td>
+    <td>
+      <sup>
+        VSCode<br>
+        Figma<br>
+        Vivaldi<br>
+        Ubuntu<br>
+      </sup>
+    </td>
+  </tr>
+<table>
 
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
