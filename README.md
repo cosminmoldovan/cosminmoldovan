@@ -10,15 +10,14 @@ I'm Cosmin, Web Developer and Interface Designer. <br>
 
 soon...
 <!-- 🖥️ -->
-<!-- ##  <img src = "https://s9.gifyu.com/images/folder10d324063e782113.gif" width = "32px">&ensp;Projects -->
-##  <sub><img src = "https://i.postimg.cc/c4Rq0w5Z/file.png" width = "32px"></sub>&ensp;Projects
+##  <img src = "https://s9.gifyu.com/images/folder10d324063e782113.gif" width = "32px">&ensp;Projects
+<!-- ##  <sub><img src = "https://i.postimg.cc/c4Rq0w5Z/file.png" width = "32px"></sub>&ensp;Projects -->
 
 
 soon...
 <!-- ⚔️ -->
-<!-- ## <img src = "https://drive.google.com/uc?id=175YFQc64tSyE9GSMyLjjDAKj3Agh9031" width = 28px>&ensp;Skills -->
-<!-- ## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills -->
-## <sub><img src = "https://i.postimg.cc/X7645Ywx/arrow.png" width = "32px"></sub>&ensp;Skills
+## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills
+<!-- ## <sub><img src = "https://i.postimg.cc/X7645Ywx/arrow.png" width = "32px"></sub>&ensp;Skills -->
 
 <table>
   <thead>
@@ -72,8 +71,8 @@ soon...
 </table>
 
 <!-- 👥 -->
-<!-- ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me  -->
-##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me 
+##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
+<!-- ##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me  -->
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
