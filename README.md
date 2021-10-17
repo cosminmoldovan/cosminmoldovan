@@ -68,39 +68,13 @@ soon...
     </tr>
   </tfoot>
 </table> -->
-<!-- <table>
-  <tr>
-    <th>Programming</th>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Databases</th>
-    <th>Cloud</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>
-      C++
-    </td>
-    <td>
-      HTML
-    </td>
-    <td>
-      PHP
-    </td>
-    <td>
-      MySQL
-    </td>
-    <td>
-      soon..
-    </td>
-    <td>
-        VSCode<br>
-        Figma<br>
-        Vivaldi<br>
-        Ubuntu<br>
-    </td>
-  </tr>
-<table> -->
+<sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate) ...**B1** (Intermediate) ...**B2** (Upper Intermediate) ...**C1** (Advanced) ...**C2** (Proficient)</sup><br>
+* **Frontend:**&ensp; HTML5 <sup>**`C2`**</sup>, CSS3 <sup>**`C2`**</sup>, JavaScript <sup>**`C1`**</sup>
+* **Backend:**&ensp; PHP <sup>**`B2`**</sup>, SQL <sup>**`B2`**</sup>
+* **Others:**&ensp; C/C++ <sup>**`C1`**</sup>, Matlab <sup>**`C1`**</sup>
+<!-- * **More Skills:**<details><summary>open</summary><p></p></details> -->
+
+
 
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
