@@ -70,19 +70,18 @@ soon...
 </table> -->
 <sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br>
 <details open>
-  <summary><strong>Primary skills</strong></summary>
-  <ul>
-    <li><strong>Frontend: </strong>HTML5 <sup><code>C2</code></sup>, CSS3 <sup><code>C2</code></sup>, JavaScript <sup><code>C1</code></sup></li>
-    <li><strong>Backend: </strong>PHP <sup><code>B2</code></sup>, SQL <sup><code>B2</code></sup></li>
-    <li><strong>Others: </strong>C/C++ <sup><code>C1</code></sup>, Matlab <sup><code>B2</code></sup></li>
-   <ul>
+  <summary><strong>Primary skills</strong></summary><br>
+<!--   <ul> -->
+    &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Frontend: </strong>HTML5 <sup><code>C2</code></sup>, CSS3 <sup><code>C2</code></sup>, JavaScript <sup><code>C1</code></sup><br>
+   &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Backend: </strong>PHP <sup><code>B2</code></sup>, SQL <sup><code>B2</code></sup><br>
+   &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Others: </strong>C/C++ <sup><code>C1</code></sup>, Matlab <sup><code>B2</code></sup><br>
+   &emsp;<img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px">&ensp;<strong>Currently learning: </strong>Node.js <sup><code>A0</code></sup>, MongoDB <sup><code>A0</code></sup>
+<!--    <ul> -->
 </details>
         
 <details>
-  <summary><strong>Secondary skills</strong></summary>
-    <ul>
-      <li><strong>Tools: </strong>VSCode <sup><code>code editor</code></sup>, Figma <sup><code>prototyping</code></sup>, Vivaldi <sup><code>browser</code></sup>, Linux<sup><code>OS</code></sup></li>
-    <ul>
+  <summary><strong>Secondary skills</strong></summary><br>
+      &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Tools: </strong>VSCode, Figma, Vivaldi, Linux
 </details>
 
 <!-- 👥 -->
