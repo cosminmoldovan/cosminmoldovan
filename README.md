@@ -68,7 +68,7 @@ soon...
     </tr>
   </tfoot>
 </table> -->
-<sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate) ...**B1** (Intermediate) ...**B2** (Upper Intermediate) ...**C1** (Advanced) ...**C2** (Proficient)</sup><br>
+<sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br>
 * **Frontend:**&ensp; HTML5 <sup>**`C2`**</sup>, CSS3 <sup>**`C2`**</sup>, JavaScript <sup>**`C1`**</sup>
 * **Backend:**&ensp; PHP <sup>**`B2`**</sup>, SQL <sup>**`B2`**</sup>
 * **Others:**&ensp; C/C++ <sup>**`C1`**</sup>, Matlab <sup>**`C1`**</sup>
