@@ -69,12 +69,21 @@ soon...
   </tfoot>
 </table> -->
 <sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br>
-* **Frontend:**&ensp; HTML5 <sup>**`C2`**</sup>, CSS3 <sup>**`C2`**</sup>, JavaScript <sup>**`C1`**</sup>
-* **Backend:**&ensp; PHP <sup>**`B2`**</sup>, SQL <sup>**`B2`**</sup>
-* **Others:**&ensp; C/C++ <sup>**`C1`**</sup>, Matlab <sup>**`C1`**</sup>
-<!-- * **More Skills:**<details><summary>open</summary><p></p></details> -->
-
-
+<details open>
+  <summary><strong>Primary skills</strong></summary>
+  <ul>
+    <li><strong>Frontend: </strong>HTML5 <sup><code>C2</code></sup>, CSS3 <sup><code>C2</code></sup>, JavaScript <sup><code>C1</code></sup></li>
+    <li><strong>Backend: </strong>PHP <sup><code>B2</code></sup>, SQL <sup><code>B2</code></sup></li>
+    <li><strong>Others: </strong>C/C++ <sup><code>C1</code></sup>, Matlab <sup><code>B2</code></sup></li>
+   <ul>
+</details>
+        
+<details>
+  <summary><strong>Secondary skills</strong></summary>
+    <ul>
+      <li><strong>Tools: </strong>VSCode <sup><code>code editor</code></sup>, Figma <sup><code>prototyping</code></sup>, Vivaldi <sup><code>browser</code></sup>, Linux<sup><code>OS</code></sup></li>
+    <ul>
+</details>
 
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
