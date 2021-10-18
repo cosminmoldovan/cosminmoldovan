@@ -10,6 +10,11 @@
 
 #### Useful Links: [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
+<details>
+  <summary>Photos from my surroundings <sup>click to open</sup></summary><br>
+  <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
+</details>
+
 <!-- 🖥️ -->
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
 <!-- ##  <sub><img src = "https://i.postimg.cc/c4Rq0w5Z/file.png" width = "32px"></sub>&ensp;Projects -->
@@ -84,10 +89,6 @@ soon...
   <summary><strong>Secondary skills</strong></summary>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode&ensp;&bull;&ensp;Figma&ensp;&bull;&ensp;Vivaldi&ensp;&bull;&ensp;Linux
 </details>
-
-##  <sub><img src = "https://i.postimg.cc/pXYRvwTH/picture.gif" width = "32px"></sub>&ensp;Photos from my surroundings 
-<!-- ##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me  -->
-<p><img alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
 
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
