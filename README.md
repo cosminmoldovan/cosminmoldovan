@@ -87,7 +87,7 @@ soon...
 
 ##  <sub><img src = "https://i.postimg.cc/pXYRvwTH/picture.gif" width = "32px"></sub>&ensp;Photos from my surroundings 
 <!-- ##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me  -->
-<p><img alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png">&emsp;</p>
+<p><img alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
 
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
