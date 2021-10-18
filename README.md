@@ -1,12 +1,14 @@
 <!-- # <sub><img src = "https://i.postimg.cc/dtLRKm2z/robot2.gif" width = "100px"></sub> Hi Devs, let's build the future of digital! -->
 # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs!
 <!-- # <sub><img src = "https://i.postimg.cc/85QQ8Qys/earth.gif" width = "64px"></sub> Hi Devs, let's build the future of digital!  -->
+
 #### I’m Cosmin, a front-end web developer. 
 
-- An eficient coder and self-proclaimed creative designer.
-- I'm specialized in translate UI/UX designs into pixel-perfect websites and applications that are responsive and run fast.
-- I have an eye for detail and a passion to achieve perfection.
-#### Useful Links [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) | [Resume](https://www.linkedin.com/in/cosmin-moldovan) | [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
+&mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
+&mdash;&ensp;I'm specialized in translate UI/UX designs into pixel-perfect websites and applications that are responsive and run fast.<br>
+&mdash;&ensp;I have an eye for detail and a passion to achieve perfection.
+
+#### Useful Links [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
 <!-- 🖥️ -->
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
@@ -70,18 +72,16 @@ soon...
 </table> -->
 <sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br>
 <details open>
-  <summary><strong>Primary skills</strong></summary><br>
-<!--   <ul> -->
-    &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Frontend: </strong>HTML5 <sup><code>C2</code></sup>, CSS3 <sup><code>C2</code></sup>, JavaScript <sup><code>C1</code></sup><br>
-   &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Backend: </strong>PHP <sup><code>B2</code></sup>, SQL <sup><code>B2</code></sup><br>
-   &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Others: </strong>C/C++ <sup><code>C1</code></sup>, Matlab <sup><code>B2</code></sup><br>
-   &emsp;<img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px">&ensp;<strong>Currently learning: </strong>Node.js <sup><code>A0</code></sup>, MongoDB <sup><code>A0</code></sup>
-<!--    <ul> -->
+  <summary><strong>Primary skills</strong></summary>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 <sup><code>C2</code></sup> &#9642; CSS3 <sup><code>C2</code></sup> &#9642; JavaScript <sup><code>C1</code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code>B2</code></sup> &#9642; SQL <sup><code>B2</code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ <sup><code>C1</code></sup> &#9642; Matlab <sup><code>B2</code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js <sup><code>A0</code></sup> &#9642; MongoDB <sup><code>A0</code></sup>
 </details>
         
 <details>
-  <summary><strong>Secondary skills</strong></summary><br>
-      &emsp;<img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px">&ensp;<strong>Tools: </strong>VSCode, Figma, Vivaldi, Linux
+  <summary><strong>Secondary skills</strong></summary>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode &#9642; Figma &#9642; Vivaldi &#9642; Linux
 </details>
 
 <!-- 👥 -->
