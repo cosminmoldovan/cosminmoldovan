@@ -70,18 +70,19 @@ soon...
     </tr>
   </tfoot>
 </table> -->
+
 <sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br>
 <details open>
   <summary><strong>Primary skills</strong></summary>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 <sup><code>C2</code></sup> &#9642; CSS3 <sup><code>C2</code></sup> &#9642; JavaScript <sup><code>C1</code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code>B2</code></sup> &#9642; SQL <sup><code>B2</code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ <sup><code>C1</code></sup> &#9642; Matlab <sup><code>B2</code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js <sup><code>A0</code></sup> &#9642; MongoDB <sup><code>A0</code></sup>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;CSS3 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;JavaScript <sup><code><strong>C1</strong></code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code><strong>B2</strong></code></sup>&ensp;&bull;&ensp;SQL <sup><code><strong>B2</strong></code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ <sup><code><strong>C1</strong></code></sup>&ensp;&bull;&ensp;Matlab <sup><code><strong>B2</strong></code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js <sup><code><strong>A0</strong></code></sup>&ensp;&bull;&ensp;MongoDB <sup><code><strong>A0</strong></code></sup>
 </details>
         
 <details>
   <summary><strong>Secondary skills</strong></summary>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode &#9642; Figma &#9642; Vivaldi &#9642; Linux
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode&ensp;&bull;&ensp;Figma&ensp;&bull;&ensp;Vivaldi&ensp;&bull;&ensp;Linux
 </details>
 
 <!-- 👥 -->
