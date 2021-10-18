@@ -85,6 +85,10 @@ soon...
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode&ensp;&bull;&ensp;Figma&ensp;&bull;&ensp;Vivaldi&ensp;&bull;&ensp;Linux
 </details>
 
+##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
+<!-- ##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me  -->
+<p><img alt="Sibiu" src="https://i.postimg.cc/tC871t5R/sibiu.png">&emsp;<img alt="Castelul-Zanelor" src="https://i.postimg.cc/kg8GW61Q/castelul-zanelor.png">&emsp;<img alt="Transfagarasan" src="https://i.postimg.cc/yYDkYr0r/transfagarasan.png">&emsp;<img alt="Balea-Lac" src="https://i.postimg.cc/HWZrmC8y/balea-lac.png">&emsp;</p>
+
 <!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
 <!-- ##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me  -->
