@@ -80,7 +80,7 @@ soon...
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;CSS3 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;JavaScript <sup><code><strong>C1</strong></code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code><strong>B2</strong></code></sup>&ensp;&bull;&ensp;SQL <sup><code><strong>B2</strong></code></sup><br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code><strong>B1</strong></code></sup>&ensp;&bull;&ensp;SQL <sup><code><strong>B2</strong></code></sup><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ <sup><code><strong>C1</strong></code></sup>&ensp;&bull;&ensp;Matlab <sup><code><strong>B2</strong></code></sup><br>
   &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js <sup><code><strong>A0</strong></code></sup>&ensp;&bull;&ensp;MongoDB <sup><code><strong>A0</strong></code></sup>
 </details>
