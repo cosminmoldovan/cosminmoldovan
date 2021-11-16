@@ -1,6 +1,5 @@
 <!-- # <sub><img src = "https://i.postimg.cc/dtLRKm2z/robot2.gif" width = "100px"></sub> Hi Devs, let's build the future of digital! -->
 # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs!
-<!-- # <sub><img src = "https://i.postimg.cc/85QQ8Qys/earth.gif" width = "64px"></sub> Hi Devs, let's build the future of digital!  -->
 
 #### I’m Cosmin, a front-end web developer. 
 
@@ -10,90 +9,41 @@
 
 #### Useful Links: [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
-<details>
+<!-- <details>
   <summary>Photos from my surroundings <sup>click to open</sup></summary><br>
   <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
-</details>
+</details> -->
 
 <!-- 🖥️ -->
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
-<!-- ##  <sub><img src = "https://i.postimg.cc/c4Rq0w5Z/file.png" width = "32px"></sub>&ensp;Projects -->
-
-
 soon...
-<!-- ⚔️ -->
+
 ## <sub><img src = "https://i.postimg.cc/HLh4WFXf/todo-list.gif" width = "32px"></sub>&ensp;Skills
-<!-- ## <sub><img src = "https://i.postimg.cc/Vk7xDbQf/code.gif" width = "32px"></sub>&ensp;Skills -->
 
-<!-- <table>
-  <thead>
-    <tr>
-      <th>Rank</th>
-      <th>Programming languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <sub><img src="https://i.postimg.cc/G2xr958X/diamond-shield.png" width="16px"></sub>
-      </td>
-      <td>
-        HYML5 &bull; CSS3 &bull; JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <sub><img src="https://i.postimg.cc/NMJmhpsz/gold-shield.png" width="16px"></sub>
-      </td>
-      <td>
-        C/C++ &bull; SQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <sub><img src="https://i.postimg.cc/wMnNMMs5/silver-shield.png" width="16px"></sub>
-      </td>
-      <td>
-        PHP &bull; Matlab
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <sub><img src="https://i.postimg.cc/SRn8mCjN/bronze-shield.png" width="16px"></sub>
-      </td>
-      <td>
-        React
-      </td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="2">
-        <sup><sup><sub>🔴</sub></sup>&ensp;Bronze > 15%</sup></sup>&emsp;&emsp;<sup><sup><sub>🟡</sub></sup>&ensp;Gold > 80%</sup><br>
-        <sup><sup><sub>⚫</sub></sup>&ensp;Silver > 50%</sup></sup>&emsp;&emsp;&ensp;<sup><sup><sub>🔵</sub></sup>&ensp;Diamond > 90%</sup>
-      </td/>
-    </tr>
-  </tfoot>
-</table> -->
-
-<sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br>
-<details open>
+<!-- 
+<sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br> -->
+<!-- <details open>
   <summary><strong>Primary skills</strong></summary><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;CSS3 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;JavaScript <sup><code><strong>C1</strong></code></sup><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code><strong>B1</strong></code></sup>&ensp;&bull;&ensp;SQL <sup><code><strong>B2</strong></code></sup><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ <sup><code><strong>C1</strong></code></sup>&ensp;&bull;&ensp;Matlab <sup><code><strong>B2</strong></code></sup><br>
   &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js <sup><code><strong>A0</strong></code></sup>&ensp;&bull;&ensp;MongoDB <sup><code><strong>A0</strong></code></sup>
+</details> -->
+
+<details open>
+  <summary><strong>Primary skills</strong></summary><br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull; CSS3 &bull; JavaScript<br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP &bull; SQL<br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
+  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js &bull; MongoDB
 </details>
-        
+
 <details><br>
   <summary><strong>Secondary skills</strong></summary>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode&ensp;&bull;&ensp;Figma&ensp;&bull;&ensp;Vivaldi&ensp;&bull;&ensp;Linux
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Vivaldi &bull; Linux
 </details>
 
-<!-- 👥 -->
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
-<!-- ##  <sub><img src = "https://i.postimg.cc/7ZF6Cgn6/comments-alt.png" width = "32px"></sub>&ensp;Connect with me  -->
-
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
