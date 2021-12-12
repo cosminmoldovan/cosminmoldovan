@@ -9,10 +9,10 @@
 
 #### Useful Links: [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
-<!-- <details>
+<details>
   <summary>Photos from my surroundings <sup>click to open</sup></summary><br>
   <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
-</details> -->
+</details>
 
 <!-- 🖥️ -->
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
@@ -20,19 +20,9 @@ soon...
 
 ## <sub><img src = "https://i.postimg.cc/HLh4WFXf/todo-list.gif" width = "32px"></sub>&ensp;Skills
 
-<!-- 
-<sup>**A0/A1** (Beginner/Elementary) ...**A2** (Pre Intermediate > 20%) ...**B1** (Intermediate > 40% )...**B2** (Upper Intermediate > 60%) ...**C1** (Advanced > 80%) ...**C2** (Proficient > 90%)</sup><br> -->
-<!-- <details open>
-  <summary><strong>Primary skills</strong></summary><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;CSS3 <sup><code><strong>C2</strong></code></sup>&ensp;&bull;&ensp;JavaScript <sup><code><strong>C1</strong></code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP <sup><code><strong>B1</strong></code></sup>&ensp;&bull;&ensp;SQL <sup><code><strong>B2</strong></code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ <sup><code><strong>C1</strong></code></sup>&ensp;&bull;&ensp;Matlab <sup><code><strong>B2</strong></code></sup><br>
-  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js <sup><code><strong>A0</strong></code></sup>&ensp;&bull;&ensp;MongoDB <sup><code><strong>A0</strong></code></sup>
-</details> -->
-
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull; CSS3 &bull; JavaScript<br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript<br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP &bull; SQL<br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
   &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js &bull; MongoDB
