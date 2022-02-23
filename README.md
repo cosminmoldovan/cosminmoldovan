@@ -5,7 +5,8 @@
 
 &mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
 &mdash;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
-&mdash;&ensp;I have an eye for detail and a passion for aesthetics and functionality.
+&mdash;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
+&mdash;&ensp;Respect, support, and optimism are just a few values that I like to share to make a pleasant coexistence with people.
 
 #### Useful Links: [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
