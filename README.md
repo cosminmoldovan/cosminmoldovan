@@ -1,6 +1,6 @@
 <!-- # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs! -->
 <p align="center">
-<img src = "http://38.media.tumblr.com/349824182ab40a55df0048ff00dff836/tumblr_nkwqzbAIoo1rnwo2vo1_500.gif" width = "50%">
+<img src = "http://s1882.pcdn.co/wp-content/uploads/VoaBStransp.gif" width = "50%">
 </p>
 
 #### I’m Cosmin, a front-end web developer. 
