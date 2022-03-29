@@ -1,8 +1,4 @@
-<!-- # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs! -->
-<p align="center">
-<img src = "http://s1882.pcdn.co/wp-content/uploads/VoaBStransp.gif" width = "50%">
-</p>
-
+# <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs!
 #### I’m Cosmin, a front-end web developer. 
 
 &mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
