@@ -1,5 +1,5 @@
 <!-- # <sub><img src = "https://i.postimg.cc/hvFNn3kt/rocket2.gif" width = "64px"></sub> Hello Devs! -->
-<img src = "https://i.postimg.cc/MKQ1wsZw/ok.gif" width = "100%">
+<img src = "https://i.postimg.cc/9XtsXBL6/ok.gif" width = "100%">
 
 #### I’m Cosmin, a front-end web developer. 
 
