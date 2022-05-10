@@ -6,7 +6,7 @@
 &mdash;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
 &mdash;&ensp;Respect, support and optimism are the values I like to share.
 
-#### View my [Portfolio](https://www.linkedin.com/in/cosmin-moldovan/) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
+#### View my [Portfolio](https://cosminmoldovan.github.io) &#9642; [Resume](https://www.linkedin.com/in/cosmin-moldovan) &#9642; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
 <details>
   <summary>Photos from my surroundings <sup>click to open</sup></summary><br>
