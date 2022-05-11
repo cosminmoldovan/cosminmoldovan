@@ -13,7 +13,6 @@
   <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
 </details>
 
-<!-- 🖥️ -->
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
 soon...
 
@@ -24,7 +23,7 @@ soon...
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript<br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP &bull; SQL<br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
-  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>Node.js &bull; MongoDB
+  &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>React
 </details>
 
 <details><br>
