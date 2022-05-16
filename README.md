@@ -21,7 +21,7 @@ soon...
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript<br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>PHP<sup>[basic]</sup> &bull; SQL<br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Backend:SQL<br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
   &emsp;<sub><img src="https://i.postimg.cc/90SvJjSZ/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>React
 </details>
