@@ -28,7 +28,7 @@
 
 <details><br>
   <summary><strong>Secondary skills</strong></summary>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Vivaldi &bull; Linux
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
 </details>
 
 ##  <sub><img src = "https://i.postimg.cc/k4f5Z7rm/chat.gif" width = "32px"></sub>&ensp;Connect with me 
