@@ -14,7 +14,7 @@
 </details>
 
 ##  <sub><sub><img src = "https://i.postimg.cc/3RnMwX3y/folder.gif" width = "32px"></sub></sub>&ensp;Projects
-soon...
+[...]
 
 ## <sub><img src = "https://i.postimg.cc/HLh4WFXf/todo-list.gif" width = "32px"></sub>&ensp;Skills
 
