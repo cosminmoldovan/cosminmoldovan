@@ -13,7 +13,7 @@
   <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
 </details>
 
-##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder-outline.gif" width = "32px"></sub></sub>&ensp;Projects
+##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width = "32px"></sub></sub>&ensp;Projects
 [...]
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width = "32px"></sub>&ensp;Skills
