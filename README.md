@@ -1,4 +1,4 @@
-# <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64px"></sub> Hello Devs!
+# <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64"></sub> Hello Devs!
 #### I’m Cosmin, a front-end web developer. 
 
 &mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
@@ -13,25 +13,25 @@
   <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
 </details>
 
-##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32px"></sub></sub>&ensp;Projects
+##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
 [...]
 
-## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32px"></sub>&ensp;Skills
+## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16px"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript<br>
-  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16px"></sub>&ensp;<strong>Backend: </strong>SQL<br>
-  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16px"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
-  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/unchecked.png" width="16px"></sub>&ensp;<strong>Currently learning: </strong>React
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript<br>
+  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Backend: </strong>SQL<br>
+  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
+  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/unchecked.png" width="16"></sub>&ensp;<strong>Currently learning: </strong>React
 </details>
 
 <details><br>
   <summary><strong>Secondary skills</strong></summary>
-  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16px"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
+  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
 </details>
 
-##  <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/chat.gif" width="32px"></sub>&ensp;Connect with me 
+##  <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/chat.gif" width="32"></sub>&ensp;Connect with me 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
