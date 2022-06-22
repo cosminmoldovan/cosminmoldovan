@@ -1,4 +1,4 @@
-# <p align="center"><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket2.gif" width="200"></p><p align="center">Hello Devs!</p> 
+# <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64"></sub> Hello Devs!
 #### I’m Cosmin, a front-end web developer. 
 
 &mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
