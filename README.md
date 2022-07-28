@@ -17,9 +17,9 @@
 
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
 
-🖥️ &nbsp;Responsive Landing Page for Mobile App [<a href="https://github.com/cosminmoldovan">Demo</a>]<br>
-🎬 &nbsp;Movie Search App with ReactJS and TMDb API [<a href="https://github.com/cosminmoldovan">Demo</a>]<br>
-👨‍💻 &nbsp;Educational Coding Game for Kids [<a href="https://github.com/cosminmoldovan">Demo</a>]
+🖥️ &nbsp;Responsive Landing Page for Mobile App <a href="https://github.com/cosminmoldovan">Live Demo</a><br>
+🎬 &nbsp;Movie Search App with ReactJS and TMDb API <a href="https://github.com/cosminmoldovan">Live Demo</a><br>
+👨‍💻 &nbsp;Educational Coding Game for Kids <a href="https://github.com/cosminmoldovan">Live Demo</a>
 
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
