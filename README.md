@@ -16,7 +16,9 @@
 -->
 
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
-[...]
+Responsive Landing Page for Mobile App
+Movie Search App with ReactJS and TMDb API
+Educational Coding Game for Kids
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
 
