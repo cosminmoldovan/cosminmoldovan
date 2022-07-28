@@ -16,17 +16,11 @@
 -->
 
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
-<table>
-<tr>
-<td>🖥️ &nbsp;Responsive Landing Page for Mobile App</td>
-</tr>
-<tr>
-<td>🎬 &nbsp;Movie Search App with ReactJS and TMDb API</td>
-</tr>
-<tr>
-<td>👨‍💻 &nbsp;Educational Coding Game for Kids</td>
-</tr>
-</table>
+
+🖥️ &nbsp;Responsive Landing Page for Mobile App [<a href="https://github.com/cosminmoldovan">Demo</a>]<br>
+🎬 &nbsp;Movie Search App with ReactJS and TMDb API [<a href="https://github.com/cosminmoldovan">Demo</a>]<br>
+👨‍💻 &nbsp;Educational Coding Game for Kids [<a href="https://github.com/cosminmoldovan">Demo</a>]
+
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
 
