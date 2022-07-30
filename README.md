@@ -16,11 +16,22 @@
 -->
 
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
-
-🖥️ &nbsp; <a href="https://github.com/cosminmoldovan"> Responsive Landing Page for Mobile App</a><br>
-🎬 &nbsp; <a href="https://github.com/cosminmoldovan"> Movie Search App with ReactJS and TMDb API</a><br>
-👨‍💻 &nbsp; <a href="https://github.com/cosminmoldovan"> Educational Coding Game for Kids</a>
-
+<table>
+  <tr>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-logo.png" /></td>
+    <td><a href="https://github.com/cosminmoldovan">Responsive Landing Page for Mobile App</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-logo.png" /></td>
+    <td><a href="https://github.com/cosminmoldovan">Movie Search App with ReactJS and TMDb API</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/tre.png" /></td>
+    <td><a href="https://github.com/cosminmoldovan">Educational Coding Game for Kids</a></td>
+  </tr>
+</table>
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
 
