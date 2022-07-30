@@ -18,12 +18,12 @@
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
 <table>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-logo32.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-logo40.png" /></td>
     <td><a href="https://github.com/cosminmoldovan">Responsive Landing Page for Mobile App</a></td>
   </tr>
   <tr></tr>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-logo32.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-logo40.png" /></td>
     <td><a href="https://github.com/cosminmoldovan">Movie Search App with ReactJS and TMDb API</a></td>
   </tr>
   <tr></tr>
