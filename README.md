@@ -23,7 +23,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-logo.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-brand.png" /></td>
     <td><a href="https://github.com/cosminmoldovan">Movie Search App with ReactJS and TMDb API</a></td>
   </tr>
   <tr></tr>
