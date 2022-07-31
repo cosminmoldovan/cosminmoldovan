@@ -38,6 +38,57 @@
     <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
   </tr>
 </table>
+<br>
+<h4>Other Projects</h4>
+  <details>
+   <summary>Responsive Web Design Certification - freeCodeCamp.org</summary>
+    &emsp; 📝&ensp;<a href="https://github.com/cosminmoldovan/fcc-survey-form">Survey Form</a><br>
+    &emsp; 📜&ensp;<a href="https://github.com/cosminmoldovan/fcc-tribute-page"> Tribute Page</a><br>
+    &emsp; 📖&ensp;<a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page">Technical Documentation Page</a><br>
+    &emsp; 🛍️&ensp;<a href="https://github.com/cosminmoldovan/fcc-product-landing-page">Product Landing Page</a><br>
+    &emsp; 👨‍💻&ensp;<a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Personal Portfolio Webpage</a>
+  </details>
+  <details>
+   <summary>React Course Projects - scrimba.com</summary>
+   <p></p>
+   <table>
+     <tr>
+       <td>⚛️&ensp;React facts site</td>
+       <td><a href="https://cosminmoldovan.github.io/react-facts-site/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/react-facts-site">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>👔&ensp;Digital business card</td>
+       <td><a href="https://cosminmoldovan.github.io/digital-business-card/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/digital-business-card">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>🎈&ensp;AirBnB Experiences clone</td>
+       <td><a href="https://cosminmoldovan.github.io/airbnb-experiences/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/airbnb-experiences">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>🌍&ensp;Travel journal</td>
+       <td><a href="https://cosminmoldovan.github.io/travel-journal/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/travel-journal">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>😹&ensp;Meme generator</td>
+       <td><a href="https://cosminmoldovan.github.io/meme-generator/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/meme-generator">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>🎲&ensp;Tenzies game</td>
+       <td><a href="https://cosminmoldovan.github.io/tenzies-game/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/tenzies-game">Code</a></td>
+     </tr>
+   </table>
+  </details>
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
 
