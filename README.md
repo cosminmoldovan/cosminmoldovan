@@ -38,18 +38,44 @@
     <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
   </tr>
 </table>
-<br>
-<h4>Other Projects</h4>
-  <details>
-   <summary>Responsive Web Design Certification - freeCodeCamp.org</summary>
-    &emsp; 📝&ensp;<a href="https://github.com/cosminmoldovan/fcc-survey-form">Survey Form</a><br>
-    &emsp; 📜&ensp;<a href="https://github.com/cosminmoldovan/fcc-tribute-page"> Tribute Page</a><br>
-    &emsp; 📖&ensp;<a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page">Technical Documentation Page</a><br>
-    &emsp; 🛍️&ensp;<a href="https://github.com/cosminmoldovan/fcc-product-landing-page">Product Landing Page</a><br>
-    &emsp; 👨‍💻&ensp;<a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Personal Portfolio Webpage</a>
+  <details open>
+   <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
+    <p></p>
+   <table>
+     <tr>
+       <td>📝&ensp;Survey Form</td>
+       <td><a href="https://cosminmoldovan.github.io/fcc-survey-form/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/fcc-survey-form">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>📜&ensp;Tribute Page</td>
+       <td><a href="https://cosminmoldovan.github.io/fcc-tribute-page/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/fcc-tribute-page">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>📖&ensp;Technical Documentation Page</td>
+       <td><a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>🛍️&ensp;Product Landing Page</td>
+       <td><a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">Website</a></td>
+       <td><a href="https://github.com/cosminmoldovan/fcc-product-landing-page">Code</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
+       <td><a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Website</a></td>
+       <td><a href="https://codepen.io/cosmin-moldovan/pen/rNYQMaO">Code</a></td>
+     </tr>
+   </table>
+
   </details>
   <details>
-   <summary>React Course Projects - scrimba.com</summary>
+   <summary><strong>React Course Projects - scrimba.com</strong></summary>
    <p></p>
    <table>
      <tr>
