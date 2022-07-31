@@ -28,7 +28,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/tre.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/kidocode-logo40.png" /></td>
     <td>Educational Coding Game for Kids</td>
   </tr>
 </table>
