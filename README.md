@@ -45,10 +45,11 @@
     <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
   </tr>
 </table>
+<h4>Other Noteworthy Projects</h4>
   <details open>
    <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
     <p></p>
-   <table>
+   <!-- <table>
      <tr>
        <td>📝&ensp;Survey Form</td>
        <td><a href="https://cosminmoldovan.github.io/fcc-survey-form/">Website</a></td>
@@ -78,6 +79,28 @@
        <td><a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Website</a></td>
        <td><a href="https://codepen.io/cosmin-moldovan/pen/rNYQMaO">Code</a></td>
      </tr>
+   </table> -->
+   
+   <table>
+     <tr>
+       <td>📝&ensp;<a href="https://cosminmoldovan.github.io/fcc-survey-form/">Survey Form</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>📜&ensp;<a href="https://cosminmoldovan.github.io/fcc-tribute-page/">Tribute Page</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>📖&ensp;<a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/">Technical Documentation Page</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>🛍️&ensp;<a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">Product Landing Page</a></td>
+     </tr>
+     <tr></tr>
+     <tr>
+       <td>👨‍💻&ensp;<a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Personal Portfolio Webpage</a></td>
+   </tr>
    </table>
 
   </details>
