@@ -19,17 +19,17 @@
 <table>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-logo40.png" /></td>
-    <td><a href="https://github.com/cosminmoldovan">Responsive Landing Page for Mobile App</a></td>
+    <td>Responsive Landing Page for Mobile App</td>
   </tr>
   <tr></tr>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-logo40.png" /></td>
-    <td><a href="https://github.com/cosminmoldovan">Movie Search App with ReactJS and TMDb API</a></td>
+    <td>Movie Search App with ReactJS and TMDb API</td>
   </tr>
   <tr></tr>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/tre.png" /></td>
-    <td><a href="https://github.com/cosminmoldovan">Educational Coding Game for Kids</a></td>
+    <td>Educational Coding Game for Kids</td>
   </tr>
 </table>
 
