@@ -18,17 +18,17 @@
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
 <table>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-logo40.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-sigla.png" /></td>
     <td>Responsive Landing Page for Mobile App</td>
   </tr>
   <tr></tr>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-logo40.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-sigla.png" /></td>
     <td>Movie Search App with ReactJS and TMDb API</td>
   </tr>
   <tr></tr>
   <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/kidocode-logo40.png" /></td>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/kidocode-sigla.png" /></td>
     <td>Educational Coding Game for Kids</td>
   </tr>
 </table>
