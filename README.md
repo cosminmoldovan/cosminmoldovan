@@ -47,103 +47,23 @@
 </table>
 <h4>Other Noteworthy Projects</h4>
   <details open>
-   <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
+   <summary>Responsive Web Design Certification - freeCodeCamp.org</summary>
     <p></p>
-   <!-- <table>
-     <tr>
-       <td>📝&ensp;Survey Form</td>
-       <td><a href="https://cosminmoldovan.github.io/fcc-survey-form/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/fcc-survey-form">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>📜&ensp;Tribute Page</td>
-       <td><a href="https://cosminmoldovan.github.io/fcc-tribute-page/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/fcc-tribute-page">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>📖&ensp;Technical Documentation Page</td>
-       <td><a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>🛍️&ensp;Product Landing Page</td>
-       <td><a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/fcc-product-landing-page">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
-       <td><a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Website</a></td>
-       <td><a href="https://codepen.io/cosmin-moldovan/pen/rNYQMaO">Code</a></td>
-     </tr>
-   </table> -->
-   
-   <table>
-     <tr>
-       <td>📝&ensp;<a href="https://cosminmoldovan.github.io/fcc-survey-form/">Survey Form</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>📜&ensp;<a href="https://cosminmoldovan.github.io/fcc-tribute-page/">Tribute Page</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>📖&ensp;<a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/">Technical Documentation Page</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>🛍️&ensp;<a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">Product Landing Page</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>👨‍💻&ensp;<a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Personal Portfolio Webpage</a></td>
-   </tr>
-   </table>
-
+      &emsp;📝&ensp;<a href="https://cosminmoldovan.github.io/fcc-survey-form/">Survey Form</a><br>
+      &emsp;📜&ensp;<a href="https://cosminmoldovan.github.io/fcc-tribute-page/">Tribute Page</a><br>
+      &emsp;📖&ensp;<a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/">Technical Documentation Page</a><br>
+      &emsp;🛍️&ensp;<a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">Product Landing Page</a><br>
+      &emsp;👨‍💻&ensp;<a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">Personal Portfolio Webpage</a>
   </details>
   <details>
-   <summary><strong>React Course Projects - scrimba.com</strong></summary>
+   <summary>React Course Projects - scrimba.com</summary>
    <p></p>
-   <table>
-     <tr>
-       <td>⚛️&ensp;React facts site</td>
-       <td><a href="https://cosminmoldovan.github.io/react-facts-site/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/react-facts-site">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>👔&ensp;Digital business card</td>
-       <td><a href="https://cosminmoldovan.github.io/digital-business-card/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/digital-business-card">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>🎈&ensp;AirBnB Experiences clone</td>
-       <td><a href="https://cosminmoldovan.github.io/airbnb-experiences/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/airbnb-experiences">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>🌍&ensp;Travel journal</td>
-       <td><a href="https://cosminmoldovan.github.io/travel-journal/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/travel-journal">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>😹&ensp;Meme generator</td>
-       <td><a href="https://cosminmoldovan.github.io/meme-generator/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/meme-generator">Code</a></td>
-     </tr>
-     <tr></tr>
-     <tr>
-       <td>🎲&ensp;Tenzies game</td>
-       <td><a href="https://cosminmoldovan.github.io/tenzies-game/">Website</a></td>
-       <td><a href="https://github.com/cosminmoldovan/tenzies-game">Code</a></td>
-     </tr>
-   </table>
+      &emsp;⚛️&ensp;<a href="https://cosminmoldovan.github.io/react-facts-site/">React facts site</a><br>
+      &emsp;👔&ensp;<a href="https://cosminmoldovan.github.io/digital-business-card/">Digital business card</a><br>
+      &emsp;🎈&ensp;<a href="https://cosminmoldovan.github.io/airbnb-experiences/">AirBnB Experiences clone</a><br>
+      &emsp;🌍&ensp;<a href="https://cosminmoldovan.github.io/travel-journal/">Travel journal</a><br>
+      &emsp;😹&ensp;<a href="https://cosminmoldovan.github.io/meme-generator/">Meme generato</a><br>
+      &emsp;🎲&ensp;<a href="https://cosminmoldovan.github.io/tenzies-game/">Tenzies game</a>
   </details>
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
