@@ -49,20 +49,77 @@
   <details open>
    <summary>Responsive Web Design Certification - freeCodeCamp.org</summary>
     <p></p>
-      &emsp;📝&ensp;Survey Form <a href="https://cosminmoldovan.github.io/fcc-survey-form/">
-      <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub></a><br>
-      &emsp;📜&ensp;Tribute Page <a href="https://cosminmoldovan.github.io/fcc-tribute-page/">
-      <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-      </a><br>
-      &emsp;📖&ensp;Technical Documentation Page <a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/">
-      <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-      </a><br>
-      &emsp;🛍️&ensp;Product Landing Page <a href="https://cosminmoldovan.github.io/fcc-product-landing-page/">
-      <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-      </a><br>
-      &emsp;👨‍💻&ensp;Personal Portfolio Webpage <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO">
-      <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-      </a>
+    <table>
+      <tr>
+        <td>📝&ensp;Survey Form</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/fcc-survey-form" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/fcc-survey-form/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>📜&ensp;Tribute Page</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/fcc-tribute-page" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/fcc-tribute-page/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>📖&ensp;Technical Documentation Page</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>🛍️&ensp;Product Landing Page</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/fcc-product-landing-page" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/fcc-product-landing-page/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
+        <td>
+          <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+    </table>
   </details>
   <details>
    <summary>React Course Projects - scrimba.com</summary>
