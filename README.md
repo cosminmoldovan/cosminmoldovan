@@ -126,12 +126,91 @@
   <details>
    <summary>React Course Projects - scrimba.com</summary>
    <p></p>
-      &emsp;⚛️&ensp;<a href="https://cosminmoldovan.github.io/react-facts-site/">React facts site</a><br>
-      &emsp;👔&ensp;<a href="https://cosminmoldovan.github.io/digital-business-card/">Digital business card</a><br>
-      &emsp;🎈&ensp;<a href="https://cosminmoldovan.github.io/airbnb-experiences/">AirBnB Experiences clone</a><br>
-      &emsp;🌍&ensp;<a href="https://cosminmoldovan.github.io/travel-journal/">Travel journal</a><br>
-      &emsp;😹&ensp;<a href="https://cosminmoldovan.github.io/meme-generator/">Meme generato</a><br>
-      &emsp;🎲&ensp;<a href="https://cosminmoldovan.github.io/tenzies-game/">Tenzies game</a>
+    <table>
+      <tr>
+        <td>⚛️&ensp;React facts site</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/react-facts-site" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/react-facts-site/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>👔&ensp;Digital business card</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/digital-business-card" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/digital-business-card/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>🎈&ensp;AirBnB Experiences clone</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/airbnb-experiences" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/airbnb-experiences/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>🌍&ensp;Travel journal</td>
+        <td>
+          <a href="https://github.com/cosminmoldovan/travel-journal" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/travel-journal/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td>😹&ensp;Meme generator</td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/meme-generator" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/meme-generator/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+     <tr></tr>
+      <tr>
+        <td>🎲&ensp;Tenzies game</td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/tenzies-game" title="code"><span>
+           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
+          </a>
+        </td>
+        <td>
+          <a href="https://cosminmoldovan.github.io/tenzies-game/" title="website">
+            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+          </a>
+        </td>
+      </tr>
+    </table>
   </details>
 
 ## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
