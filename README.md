@@ -54,11 +54,11 @@
     <table>
       <tr>
         <td>📝&ensp;Survey Form</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/fcc-survey-form" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/fcc-survey-form/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -68,11 +68,11 @@
       <tr></tr>
       <tr>
         <td>📜&ensp;Tribute Page</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/fcc-tribute-page" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/fcc-tribute-page/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -82,11 +82,11 @@
       <tr></tr>
       <tr>
         <td>📖&ensp;Technical Documentation Page</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -96,11 +96,11 @@
       <tr></tr>
       <tr>
         <td>🛍️&ensp;Product Landing Page</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/fcc-product-landing-page" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/fcc-product-landing-page/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -110,11 +110,11 @@
       <tr></tr>
       <tr>
         <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
-        <td>
+        <!--<td>
           <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -129,11 +129,11 @@
     <table>
       <tr>
         <td>⚛️&ensp;React facts site</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/react-facts-site" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/react-facts-site/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -143,11 +143,11 @@
       <tr></tr>
       <tr>
         <td>👔&ensp;Digital business card</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/digital-business-card" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/digital-business-card/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -157,11 +157,11 @@
       <tr></tr>
       <tr>
         <td>🎈&ensp;AirBnB Experiences clone</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/airbnb-experiences" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/airbnb-experiences/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -171,11 +171,11 @@
       <tr></tr>
       <tr>
         <td>🌍&ensp;Travel journal</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/travel-journal" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/travel-journal/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -185,11 +185,11 @@
       <tr></tr>
       <tr>
         <td>😹&ensp;Meme generator</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/meme-generator" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/meme-generator/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
@@ -199,11 +199,11 @@
      <tr></tr>
       <tr>
         <td>🎲&ensp;Tenzies game</td>
-        <td>
+        <!--<td>
           <a href="https://github.com/cosminmoldovan/tenzies-game" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
-        </td>
+        </td>-->
         <td>
           <a href="https://cosminmoldovan.github.io/tenzies-game/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
