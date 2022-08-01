@@ -16,6 +16,7 @@
 -->
 
 ##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
+<br>
 <table>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/moldovan-sigla.png" /></td>
@@ -45,6 +46,7 @@
     <td><a href="https://cosminmoldovan.github.io">See Live</a></td>
   </tr>
 </table>
+<br>
 <h4>Other Noteworthy Projects</h4>
   <details open>
    <summary>Responsive Web Design Certification - freeCodeCamp.org</summary>
