@@ -20,28 +20,28 @@
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/moldovan-sigla.png" /></td>
     <td>Personal Portfolio Website</td>
-    <td><a href="https://cosminmoldovan.github.io"><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub> Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io">See Live <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub></a></td>
   </tr>
   <tr></tr>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-sigla.png" /></td>
     <td>Responsive Landing Page for Mobile App</td>
-    <td><a href="https://cosminmoldovan.github.io"><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>  Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io">See Live <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub></a></td>
   </tr>
   <tr></tr>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix-sigla.png" /></td>
     <td>Movie Search App with ReactJS and TMDb API</td>
-    <td><a href="https://cosminmoldovan.github.io"><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub> Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io">See Live <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub></a></td>
   </tr>
   <tr></tr>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/kidocode-sigla.png" /></td>
     <td>Educational Coding Game for Kids</td>
-    <td><a href="https://cosminmoldovan.github.io"><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub> Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io">See Live <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub></a></td>
   </tr>
 </table>
