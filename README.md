@@ -186,7 +186,7 @@
       <tr>
         <td>😹&ensp;Meme generator</td>
         <td>
-          <a href="https://cosminmoldovan.github.io/meme-generator" title="code"><span>
+          <a href="https://github.com/cosminmoldovan/meme-generator" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
         </td>
@@ -200,7 +200,7 @@
       <tr>
         <td>🎲&ensp;Tenzies game</td>
         <td>
-          <a href="https://cosminmoldovan.github.io/tenzies-game" title="code"><span>
+          <a href="https://github.com/cosminmoldovan/tenzies-game" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github.svg" height="22"/></sub>
           </a>
         </td>
