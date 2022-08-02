@@ -49,7 +49,7 @@
 <br>
 <h4>Other Projects</h4>
   <details open>
-   <summary>Responsive Web Design Certification - freeCodeCamp.org</summary>
+   <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
     <p></p>
     <table>
       <tr>
@@ -124,7 +124,7 @@
     </table>
   </details>
   <details>
-   <summary>React Course Projects - scrimba.com</summary>
+   <summary><strong>React Course Projects - scrimba.com</strong></summary>
    <p></p>
     <table>
       <tr>
