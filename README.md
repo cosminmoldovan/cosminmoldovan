@@ -111,7 +111,7 @@
       <tr>
         <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
         <td>
-          <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO" title="code"><span>
+          <a href="https://codepen.io/cosmin-moldovan/pen/rNYQMaO" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
           </a>
         </td>
