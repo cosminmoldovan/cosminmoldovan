@@ -47,7 +47,7 @@
   </tr>
 </table>
 <br>
-<h4>Other Projects</h4>
+<h3>🗄️ Other Projects</h3>
   <details open>
    <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
     <p></p>
