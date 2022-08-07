@@ -28,8 +28,8 @@
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme-sigla.png" /></td>
     <td>Responsive Landing Page for Mobile App</td>
-    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io">See Live</a></td>
+    <td><a href="https://github.com/cosminmoldovan/remindme">Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io/remindme/">See Live</a></td>
   </tr>
   <tr></tr>
   <tr>
