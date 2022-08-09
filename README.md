@@ -42,8 +42,8 @@
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/kidocode-sigla.png" /></td>
     <td>Educational Coding Game for Kids</td>
-    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io">See Live</a></td>
+    <td><a href="https://github.com/cosminmoldovan/kidocode">Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io/kidocode/">See Live</a></td>
   </tr>
 </table>
 <br>
