@@ -21,7 +21,7 @@
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/moldovan-sigla.png" /></td>
     <td>Personal Portfolio Website</td>
-    <td><a href="https://cosminmoldovan.github.io">Source Code</a></td>
+    <td><a href="https://github.com/cosminmoldovan/cosminmoldovan.github.io">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io">See Live</a></td>
   </tr>
   <tr></tr>
