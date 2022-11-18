@@ -184,7 +184,7 @@
       </tr>
       <tr></tr>
       <tr>
-        <td>😹&ensp;Meme generator</td>
+        <td>😺&ensp;Meme generator</td>
         <td>
           <a href="https://github.com/cosminmoldovan/meme-generator" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
