@@ -111,12 +111,12 @@
       <tr>
         <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
         <td>
-          <a href="https://codepen.io/cosmin-moldovan/pen/rNYQMaO" title="code"><span>
+          <a href="https://github.com/cosminmoldovan/fcc-personal-portfolio-webpage" title="code"><span>
            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
           </a>
         </td>
         <td>
-          <a href="https://codepen.io/cosmin-moldovan/full/rNYQMaO" title="website">
+          <a href="https://cosminmoldovan.github.io/fcc-personal-portfolio-webpage/" title="website">
             <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
           </a>
         </td>
