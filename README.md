@@ -1,4 +1,6 @@
-# <sub><img src="https://github.com/cosminmoldovan/gitdrive/blob/main/gh-profile/spaceman-opt2.gif" width="72" ></sub> Hello Devs!
+<!-- # <sub><img src="https://github.com/cosminmoldovan/gitdrive/blob/main/gh-profile/spaceman-opt2.gif" width="72" ></sub> Hello Devs! -->
+[![image](https://user-images.githubusercontent.com/51231879/216102739-0d0aac9b-f135-48e0-a386-f17c058de835.png)](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
 #### I’m Cosmin, a front-end web developer. 
 
 &mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
