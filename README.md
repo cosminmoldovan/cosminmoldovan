@@ -1,4 +1,5 @@
-# <sub><img src="https://66.media.tumblr.com/927b527f2141092e7eb13bfaac892e16/59917446139250e2-72/s400x600/c49e755eba2eae4e84fc4c38f00fe146a29f69cf.gif" width="72" ></sub> Hello Devs!
+<!-- # <sub><img src="https://66.media.tumblr.com/927b527f2141092e7eb13bfaac892e16/59917446139250e2-72/s400x600/c49e755eba2eae4e84fc4c38f00fe146a29f69cf.gif" width="72" ></sub> Hello Devs! -->
+# Hello Devs!
 
 #### I’m Cosmin, a front-end web developer. 
 
