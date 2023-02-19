@@ -241,3 +241,4 @@
 [<img align="left" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/cosmin-moldovan)
 
 [<img align="left" alt="fcc" src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />](https://www.freecodecamp.org/cosmin-moldovan)
+![Badge](https://visitor-counter-badge.vercel.app/api/cosminmoldovan/cosminmoldovan/)
