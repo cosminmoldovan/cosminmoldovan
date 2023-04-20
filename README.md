@@ -16,7 +16,7 @@
 </details>
 -->
 
-##  <sub><sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/folder.gif" width="32"></sub></sub>&ensp;Projects
+##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/3d-folder.png?alt=media&token=72ac2545-cbfb-4e1f-844e-70681084034d" width="32"></sub></sub>&ensp;Projects
 <br>
 <table>
   <tr>
@@ -221,7 +221,7 @@
     </table>
   </details>
 
-## <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/list.gif" width="32"></sub>&ensp;Skills
+## <sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/fluent-brain.png?alt=media&token=1c653b9f-4179-49a6-83f6-1fe011a4c394" width="32"></sub>&ensp;Skills
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
@@ -236,7 +236,7 @@
   &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
 </details>
 
-##  <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/chat.gif" width="32"></sub>&ensp;Connect with me 
+##  <sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/paper-plane.png?alt=media&token=0e1280e4-a2f5-4c59-8dd4-b43bcf1ede26" width="32"></sub>&ensp;Connect with me 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
