@@ -236,7 +236,7 @@
   &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
 </details>
 
-##  <sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons8-mail-96.png?alt=media&token=50eba2a6-c19a-407c-a813-351d6e1e6d43" width="40"></sub>&ensp;Say Hi!
+##  <sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons8-chat-96.png?alt=media&token=1ca530c4-a424-4f48-bdf1-e41049998bd4" width="40"></sub>&ensp;Say Hi!
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
