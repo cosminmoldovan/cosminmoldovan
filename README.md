@@ -55,7 +55,7 @@
   </tr>
 </table>
 <br>
-<h3>🗄️ Other Projects</h3>
+<h3>*️⃣ Other Projects</h3>
   <details open>
    <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
     <p></p>
@@ -221,7 +221,7 @@
     </table>
   </details>
 
-## <sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/fluent-brain.png?alt=media&token=1c653b9f-4179-49a6-83f6-1fe011a4c394" width="40"></sub>&ensp;Skills
+## <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/fluent-brain.png?alt=media&token=1c653b9f-4179-49a6-83f6-1fe011a4c394" width="40"></sub></sub>&ensp;Skills
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
@@ -236,7 +236,7 @@
   &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
 </details>
 
-##  <sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons8-chat-96.png?alt=media&token=1ca530c4-a424-4f48-bdf1-e41049998bd4" width="40"></sub>&ensp;Say Hi!
+##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons8-chat-96.png?alt=media&token=1ca530c4-a424-4f48-bdf1-e41049998bd4" width="40"></sub></sub>&ensp;Let's connect!
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
