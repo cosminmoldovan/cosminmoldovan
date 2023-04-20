@@ -26,18 +26,25 @@
     <td><a href="https://cosminmoldovan.github.io">See Live</a></td>
   </tr>
   <tr></tr>
+    <tr>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix.png" /></td>
+    <td>Movie Search App with React and TMDb API</td>
+    <td><a href="https://github.com/cosminmoldovan/trendflix">Source Code</a></td>
+    <td><a href="https://cosminmoldovan.github.io/trendflix/">See Live</a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/gamehub.png" /></td>
+    <td>Video Game Discovery App (React + TypeScript)</td>
+    <td><a href="https://github.com/cosminmoldovan/game-hub">Source Code</a></td>
+    <td><a href="https://cm-gamehub.vercel.app/">See Live</a></td>
+  </tr>
+  <tr></tr>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme.png" /></td>
     <td>Responsive Landing Page for Mobile App</td>
     <td><a href="https://github.com/cosminmoldovan/remindme">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io/remindme/">See Live</a></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix.png" /></td>
-    <td>Movie Search App with ReactJS and TMDb API</td>
-    <td><a href="https://github.com/cosminmoldovan/trendflix">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io/trendflix/">See Live</a></td>
   </tr>
   <tr></tr>
   <tr>
