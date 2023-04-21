@@ -16,7 +16,7 @@
 </details>
 -->
 
-##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons8-hard-working-96.png?alt=media&token=6e77c90e-c55b-4c7b-9396-3bb15a484f9b" width="40"></sub></sub>&ensp;Projects
+##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="40"></sub></sub>&ensp;Projects
 <br>
 <table>
   <tr>
@@ -221,7 +221,7 @@
     </table>
   </details>
 
-## <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/fluent-brain.png?alt=media&token=1c653b9f-4179-49a6-83f6-1fe011a4c394" width="40"></sub></sub>&ensp;Skills
+## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/brain.png" width="40"></sub></sub>&ensp;Skills
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
