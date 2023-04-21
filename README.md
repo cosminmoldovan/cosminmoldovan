@@ -221,7 +221,7 @@
     </table>
   </details>
 
-## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/brain.png" width="40"></sub></sub>&ensp;Skills
+## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/work.png" width="40"></sub></sub>&ensp;Skills
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
