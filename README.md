@@ -18,7 +18,8 @@
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix.png?alt=media&token=4fcfd811-0293-4863-a0b8-663717db0390"/></a>
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix.png?alt=media&token=4fcfd811-0293-4863-a0b8-663717db0390"/></a>&ensp;&ensp;&ensp;
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub.png?alt=media&token=20bdf5c4-ad3a-413e-8b9b-6f91a4f4366f"/></a>
 
 <br>
 <br>
