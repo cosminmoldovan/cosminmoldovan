@@ -18,13 +18,15 @@
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix.png?alt=media&token=4fcfd811-0293-4863-a0b8-663717db0390"/></a>&ensp;&ensp;&ensp;
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub.png?alt=media&token=20bdf5c4-ad3a-413e-8b9b-6f91a4f4366f"/></a>
-
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card.png?alt=media&token=f756a0b6-fe43-4808-9f6c-10df402e12c3"/></a>&ensp;&ensp;&ensp;
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card.png?alt=media&token=9e212d73-0ece-4eb4-9592-5bc657a9a905"/></a>
+<br>
+<br>
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card.png?alt=media&token=f53f9990-32ae-4d4b-8ead-8f6f864c0ab2"/></a>&ensp;&ensp;&ensp;
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card.png?alt=media&token=319e855e-c8cd-43b1-ba87-55e8352b131d"/></a>
 <br>
 <br>
 <br>
-
 <table>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/moldovan.png" /></td>
