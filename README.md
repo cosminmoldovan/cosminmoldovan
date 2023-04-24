@@ -18,10 +18,10 @@
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card.png?alt=media&token=f756a0b6-fe43-4808-9f6c-10df402e12c3" width="23%"/></a>&ensp;
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card.png?alt=media&token=9e212d73-0ece-4eb4-9592-5bc657a9a905"  width="23%" /></a>&ensp;
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card.png?alt=media&token=f53f9990-32ae-4d4b-8ead-8f6f864c0ab2" width="23%" /></a>&ensp;
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card.png?alt=media&token=319e855e-c8cd-43b1-ba87-55e8352b131d"  width="23%"/></a>
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card.png?alt=media&token=f756a0b6-fe43-4808-9f6c-10df402e12c3" width="32%"/></a>&ensp;
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card.png?alt=media&token=9e212d73-0ece-4eb4-9592-5bc657a9a905"  width="32%" /></a>&ensp;
+<!-- <a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card.png?alt=media&token=f53f9990-32ae-4d4b-8ead-8f6f864c0ab2" width="32%" /></a>&ensp; -->
+<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card.png?alt=media&token=319e855e-c8cd-43b1-ba87-55e8352b131d"  width="32%"/></a>
 <br>
 <br>
 <br>
