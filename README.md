@@ -18,12 +18,12 @@
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
-<a href="https://cosminmoldovan.github.io/trendflix/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card2.png?alt=media&token=93f974c1-66ea-44c2-83cd-05961e18ff2e" /></a>&ensp;&ensp;
-<a href="https://cm-gamehub.vercel.app/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card2.png?alt=media&token=3ba0e3b9-e41b-4435-8af2-f68e8fa4a4f1" /></a>
+<a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card2.png?alt=media&token=93f974c1-66ea-44c2-83cd-05961e18ff2e" alt="TrendFlix"/></a>&ensp;&ensp;
+<a href="https://cm-gamehub.vercel.app/"  title="Visit Website"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card2.png?alt=media&token=3ba0e3b9-e41b-4435-8af2-f68e8fa4a4f1" alt="GameHub"/></a>
 <br>
 <br>
-<a href="https://cosminmoldovan.github.io/remindme/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card2.png?alt=media&token=65b0a6d6-f59f-4698-8090-f29ebf60cfb7" /></a>&ensp;&ensp;
-<a href="https://cosminmoldovan.github.io/kidocode/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card2.png?alt=media&token=3e5d4bbb-f02d-40ee-826d-d935c85ec77f" /></a>
+<a href="https://cosminmoldovan.github.io/remindme/"  title="Visit Website"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card2.png?alt=media&token=65b0a6d6-f59f-4698-8090-f29ebf60cfb7" alt="Remindme"/></a>&ensp;&ensp;
+<a href="https://cosminmoldovan.github.io/kidocode/"  title="Visit Website"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card2.png?alt=media&token=3e5d4bbb-f02d-40ee-826d-d935c85ec77f" alt="KidoCode"/></a>
 <br>
 <br>
 <br>
@@ -234,10 +234,10 @@
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
-  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript<br>
+  &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript &bull; React<br>
   &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Backend: </strong>SQL<br>
   &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Others: </strong>C/C++ &bull; Matlab<br>
-  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/unchecked.png" width="16"></sub>&ensp;<strong>Currently learning: </strong>React
+  &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/unchecked.png" width="16"></sub>&ensp;<strong>Currently learning: </strong>TypeScript
 </details>
 
 <details><br>
