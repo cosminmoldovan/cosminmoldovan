@@ -18,6 +18,11 @@
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+</picture>
+
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card2.png?alt=media&token=93f974c1-66ea-44c2-83cd-05961e18ff2e" alt="TrendFlix"/></a>&ensp;&ensp;
 <a href="https://cm-gamehub.vercel.app/"  title="Visit Website"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card2.png?alt=media&token=3ba0e3b9-e41b-4435-8af2-f68e8fa4a4f1" alt="GameHub"/></a>
 <br>
