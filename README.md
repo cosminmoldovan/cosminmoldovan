@@ -24,7 +24,7 @@
 <br>
 <a href="https://cosminmoldovan.github.io/remindme/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card2.png?alt=media&token=65b0a6d6-f59f-4698-8090-f29ebf60cfb7" /></a>&ensp;&ensp;
 <a href="https://cosminmoldovan.github.io/kidocode/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card2.png?alt=media&token=3e5d4bbb-f02d-40ee-826d-d935c85ec77f" /></a>
-<!-- <br>
+<br>
 <br>
 <br>
 <table>
@@ -62,7 +62,7 @@
     <td><a href="https://github.com/cosminmoldovan/kidocode">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io/kidocode/">See Live</a></td>
   </tr>
-</table> -->
+</table>
 <br>
 <h3>*️⃣ Other Projects</h3>
   <details open>
