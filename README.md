@@ -48,6 +48,105 @@
 <br>
 <br>
 <table>
+    <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/moldovan-logo-white.png?alt=media&token=95d8e46e-093e-4a7c-9ae8-6ed8f42d62ef">
+        <img alt="Portfolio" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/moldovan.png?alt=media&token=8b1d645f-93bb-46b1-97ad-57608d4357ba">
+      </picture>
+    </td>
+     <td>Personal Portfolio Website</td>
+    <td>
+      <a href="https://github.com/cosminmoldovan/cosminmoldovan.github.io" title="code">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://cosminmoldovan.github.io" title="website">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+      </a>
+    </td>
+  </tr>
+  <tr></tr>
+    <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-logo-white.png?alt=media&token=ef401c79-2af0-4797-b2fa-1a01afc98221">
+        <img alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix.png?alt=media&token=74e57f7c-ff6c-440c-9682-1af3487e1cc4">
+      </picture>
+    </td>
+    <td>Movie Search App with React and TMDb API</td>
+    <td>
+      <a href="https://github.com/cosminmoldovan/trendflix" title="code">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://cosminmoldovan.github.io/trendflix/" title="website">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+      </a>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-logo-white.png?alt=media&token=e4fa35a3-c66d-4e02-ab92-0400de1943d5">
+        <img alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub.png?alt=media&token=64965a53-a569-4c53-a7fc-1140568d871a">
+      </picture>
+    </td>
+    <td>Video Game Discovery App (React + TypeScript)</td>
+    <td>
+      <a href="https://github.com/cosminmoldovan/game-hub" title="code">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://cm-gamehub.vercel.app/" title="website">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+      </a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-logo-white.png?alt=media&token=8539ec65-d391-4934-9607-f8897c7a66bb">
+        <img alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme.png?alt=media&token=c60704f1-1c8a-4c04-8dd6-49fad8ecd1dd">
+      </picture>
+    </td>
+    <td>Responsive Landing Page for Mobile App</td>
+    <td>
+      <a href="https://github.com/cosminmoldovan/remindme" title="code">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://cosminmoldovan.github.io/remindme/" title="website">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+      </a></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-logo-white.png?alt=media&token=18dbfd39-096b-42e1-938a-beff5dc68e2d">
+        <img alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode.png?alt=media&token=e876df23-a394-4764-a526-9dc13216bacf">
+      </picture>
+    </td>
+    <td>Educational Coding Game for Kids</td>
+    <td>
+      <a href="https://github.com/cosminmoldovan/kidocode" title="code">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://cosminmoldovan.github.io/kidocode/" title="website">
+        <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
+      </a></td>
+  </tr>
+</table>
+
+<!-- <table>
   <tr>
     <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/moldovan.png" /></td>
     <td>Personal Portfolio Website</td>
@@ -82,7 +181,7 @@
     <td><a href="https://github.com/cosminmoldovan/kidocode">Source Code</a></td>
     <td><a href="https://cosminmoldovan.github.io/kidocode/">See Live</a></td>
   </tr>
-</table>
+</table> -->
 <br>
 <h3>*️⃣ Other Projects</h3>
   <details open>
