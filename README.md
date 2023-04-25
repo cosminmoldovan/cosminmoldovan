@@ -2,10 +2,10 @@
 
 #### I’m Cosmin, a front-end web developer. 
 
-🧑‍💻 An eficient coder and self-proclaimed creative designer.<br>
-🦄 I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
-👀 I have an eye for detail and a passion for aesthetics and functionality.<br>
-🫴 Respect, support and optimism are the values I like to share.
+&mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
+&mdash;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
+&mdash;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
+&mdash;&ensp;Respect, support and optimism are the values I like to share.
 
 #### View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
