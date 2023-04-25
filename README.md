@@ -2,10 +2,10 @@
 
 #### I’m Cosmin, a front-end web developer. 
 
-&mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
-&mdash;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
-&mdash;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
-&mdash;&ensp;Respect, support and optimism are the values I like to share.
+🧑‍💻 An eficient coder and self-proclaimed creative designer.<br>
+🦄 I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
+👀 I have an eye for detail and a passion for aesthetics and functionality.<br>
+🫴 Respect, support and optimism are the values I like to share.
 
 #### View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
@@ -18,12 +18,12 @@
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card.png?alt=media&token=f756a0b6-fe43-4808-9f6c-10df402e12c3" /></a>&ensp;&ensp;
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card.png?alt=media&token=9e212d73-0ece-4eb4-9592-5bc657a9a905" /></a>
+<a href="https://cosminmoldovan.github.io/trendflix/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-card.png?alt=media&token=f756a0b6-fe43-4808-9f6c-10df402e12c3" /></a>&ensp;&ensp;
+<a href="https://cm-gamehub.vercel.app/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-card.png?alt=media&token=9e212d73-0ece-4eb4-9592-5bc657a9a905" /></a>
 <br>
 <br>
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card.png?alt=media&token=f53f9990-32ae-4d4b-8ead-8f6f864c0ab2" /></a>&ensp;&ensp;
-<a href="https://cosminmoldovan.github.io"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card.png?alt=media&token=319e855e-c8cd-43b1-ba87-55e8352b131d" /></a>
+<a href="https://cosminmoldovan.github.io/remindme/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-card.png?alt=media&token=f53f9990-32ae-4d4b-8ead-8f6f864c0ab2" /></a>&ensp;&ensp;
+<a href="https://cosminmoldovan.github.io/kidocode/"><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-card.png?alt=media&token=319e855e-c8cd-43b1-ba87-55e8352b131d" /></a>
 <br>
 <br>
 <br>
