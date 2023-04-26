@@ -145,209 +145,22 @@
       </a></td>
   </tr>
 </table>
-
-<!-- <table>
-  <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/moldovan.png" /></td>
-    <td>Personal Portfolio Website</td>
-    <td><a href="https://github.com/cosminmoldovan/cosminmoldovan.github.io">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io">See Live</a></td>
-  </tr>
-  <tr></tr>
-    <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/trendflix.png" /></td>
-    <td>Movie Search App with React and TMDb API</td>
-    <td><a href="https://github.com/cosminmoldovan/trendflix">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io/trendflix/">See Live</a></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/gamehub.png" /></td>
-    <td>Video Game Discovery App (React + TypeScript)</td>
-    <td><a href="https://github.com/cosminmoldovan/game-hub">Source Code</a></td>
-    <td><a href="https://cm-gamehub.vercel.app/">See Live</a></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/remindme.png" /></td>
-    <td>Responsive Landing Page for Mobile App</td>
-    <td><a href="https://github.com/cosminmoldovan/remindme">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io/remindme/">See Live</a></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/kidocode.png" /></td>
-    <td>Educational Coding Game for Kids</td>
-    <td><a href="https://github.com/cosminmoldovan/kidocode">Source Code</a></td>
-    <td><a href="https://cosminmoldovan.github.io/kidocode/">See Live</a></td>
-  </tr>
-</table> -->
 <br>
 <h3>*️⃣ Other Projects</h3>
-  <details open>
-   <summary><strong>Responsive Web Design Certification - freeCodeCamp.org</strong></summary>
-    <p></p>
-    <table>
-      <tr>
-        <td>📝&ensp;Survey Form</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/fcc-survey-form" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/fcc-survey-form/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>📜&ensp;Tribute Page</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/fcc-tribute-page" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/fcc-tribute-page/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>📖&ensp;Technical Documentation Page</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/fcc-technical-documentation-page" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/fcc-technical-documentation-page/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>🛍️&ensp;Product Landing Page</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/fcc-product-landing-page" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/fcc-product-landing-page/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>👨‍💻&ensp;Personal Portfolio Webpage</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/fcc-personal-portfolio-webpage" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/fcc-personal-portfolio-webpage/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-   <summary><strong>React Course Projects - scrimba.com</strong></summary>
-   <p></p>
-    <table>
-      <tr>
-        <td>⚛️&ensp;React facts site</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/react-facts-site" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/react-facts-site/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>👔&ensp;Digital business card</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/digital-business-card" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/digital-business-card/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>🎈&ensp;AirBnB Experiences clone</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/airbnb-experiences" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/airbnb-experiences/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>🌍&ensp;Travel journal</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/travel-journal" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/travel-journal/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-      <tr></tr>
-      <tr>
-        <td>😺&ensp;Meme generator</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/meme-generator" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/meme-generator/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-     <tr></tr>
-      <tr>
-        <td>🎲&ensp;Tenzies game</td>
-        <td>
-          <a href="https://github.com/cosminmoldovan/tenzies-game" title="code"><span>
-           <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/github-alt.svg" height="20"/></sub>
-          </a>
-        </td>
-        <td>
-          <a href="https://cosminmoldovan.github.io/tenzies-game/" title="website">
-            <sub><img src = "https://cosminmoldovan.github.io/gitdrive/gh-profile/external-link.svg" height="20"/></sub>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
+<a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a2d1dd27-4073-4608-bea8-82c4784a5663">
+        <img alt="freeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a2d1dd27-4073-4608-bea8-82c4784a5663">
+      </picture>
+</a>
+<br>
+<br>
+  <a href="https://resilient-temper-595.notion.site/React-Course-Projects-scrimba-com-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=1fc8ca3b-26f6-4976-9ae3-22f3a62a6f95">
+        <img alt="Scrimba React Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=1fc8ca3b-26f6-4976-9ae3-22f3a62a6f95">
+      </picture>
+</a>
 
 ## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/critical-thinking.png" width="32"></sub></sub>&ensp;Skills
 
