@@ -148,17 +148,19 @@
 <br>
 <h3>*️⃣ Other Projects</h3>
 <a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a78b3c50-6ad5-4603-a06d-4041b0a328fc">
-        <img alt="freeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a78b3c50-6ad5-4603-a06d-4041b0a328fc">
+    <picture >
+        <source  media="(prefers-color-scheme: dark)"  width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=384af469-46c2-4e18-baf2-66f4a7b1ffad" >
+">
+      <img width="502" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=384af469-46c2-4e18-baf2-66f4a7b1ffad" >
       </picture>
 </a>
 <br>
 <br>
   <a href="https://resilient-temper-595.notion.site/React-Course-Projects-scrimba-com-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=e4bbb3ed-4434-4dda-a41a-182bdaec12a7">
-        <img alt="Scrimba React Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=e4bbb3ed-4434-4dda-a41a-182bdaec12a7">
+        <source media="(prefers-color-scheme: dark)" width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=10607e31-e75d-4158-8a86-a9763c47c87b">
+">
+       <img width="502" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=10607e31-e75d-4158-8a86-a9763c47c87b">
       </picture>
 </a>
 
