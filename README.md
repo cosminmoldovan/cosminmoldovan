@@ -149,16 +149,16 @@
 <h3>*️⃣ Other Projects</h3>
 <a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a2d1dd27-4073-4608-bea8-82c4784a5663">
-        <img alt="freeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a2d1dd27-4073-4608-bea8-82c4784a5663">
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a78b3c50-6ad5-4603-a06d-4041b0a328fc">
+        <img alt="freeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=a78b3c50-6ad5-4603-a06d-4041b0a328fc">
       </picture>
 </a>
 <br>
 <br>
   <a href="https://resilient-temper-595.notion.site/React-Course-Projects-scrimba-com-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=1fc8ca3b-26f6-4976-9ae3-22f3a62a6f95">
-        <img alt="Scrimba React Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=1fc8ca3b-26f6-4976-9ae3-22f3a62a6f95">
+        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=e4bbb3ed-4434-4dda-a41a-182bdaec12a7">
+        <img alt="Scrimba React Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=e4bbb3ed-4434-4dda-a41a-182bdaec12a7">
       </picture>
 </a>
 
