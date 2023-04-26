@@ -151,7 +151,7 @@
     <picture >
         <source  media="(prefers-color-scheme: dark)"  width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=384af469-46c2-4e18-baf2-66f4a7b1ffad" >
 ">
-      <img width="494" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ffreecodecamp-card-light.png?alt=media&token=672e6873-9e36-4e0e-a3de-5a8b3cb26188" >
+      <img width="494" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ffreecodecamp-card-light.png?alt=media&token=149553e2-563c-46dc-b4e2-b2dd6e360673" >
       </picture>
 </a>
 <br>
@@ -159,7 +159,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=10607e31-e75d-4158-8a86-a9763c47c87b">
 ">
-       <img width="494" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fscrimba-card-light.png?alt=media&token=121e1b9a-e818-4425-8932-1237b1639061">
+       <img width="494" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fscrimba-card-light.png?alt=media&token=3936c0d9-b81c-4def-91ee-4d2ae9714356">
       </picture>
 </a>
 
