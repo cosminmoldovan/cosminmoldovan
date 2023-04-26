@@ -21,13 +21,13 @@
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website">
 <picture>
   <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-trendflix.png?alt=media&token=6e1c26f7-bdc5-4596-aae1-9722a9f68e77">
-  <img width="352" alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ftrendflix-card-light.png?alt=media&token=1485c9bc-52e7-4c1c-aa06-82638af01755">
+  <img width="352" alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ftrendflix-card-light.png?alt=media&token=dc487cc2-035f-495c-8b04-73f55cc8e672">
 </picture>
 </a>&ensp;&ensp;
 <a href="https://cm-gamehub.vercel.app/"  title="Visit Website">
   <picture>
   <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-gamehub.png?alt=media&token=ac4a832d-c3e1-4d64-9226-83da94a403c0">
-  <img width="352" alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fgamehub-card-light.png?alt=media&token=3cba6a8d-fc42-40a9-b8f0-188b4688828b">
+  <img width="352" alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fgamehub-card-light.png?alt=media&token=dcb361ab-8968-4950-a7ff-442dd8fa3995">
 </picture>
 </a>
 <br>
@@ -35,13 +35,13 @@
 <a href="https://cosminmoldovan.github.io/remindme/"  title="Visit Website">
   <picture>
   <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-remindme.png?alt=media&token=4432e2d3-866d-420a-bfea-8da506b4c0f1">
-  <img width="352" alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fremindme-card-light.png?alt=media&token=65721572-6ded-4a65-85b7-0983513f2643">
+  <img width="352" alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fremindme-card-light.png?alt=media&token=23fe6a18-4095-4afa-8c28-acccfdc5c862">
 </picture>
 </a>&ensp;&ensp;
 <a href="https://cosminmoldovan.github.io/kidocode/"  title="Visit Website">
     <picture>
   <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-kidocode.png?alt=media&token=21ed24b0-8238-4c15-b791-14b1f889e8a4">
-  <img width="352" alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fkidocode-card-light.png?alt=media&token=b4772160-6eeb-4134-a600-4d6e9a43fcf8">
+  <img width="352" alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fkidocode-card-light.png?alt=media&token=24a664a2-50d9-4811-b5fd-55c28a7cb08a">
 </picture>
 </a>
 <br>
@@ -151,16 +151,15 @@
     <picture >
         <source  media="(prefers-color-scheme: dark)"  width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=384af469-46c2-4e18-baf2-66f4a7b1ffad" >
 ">
-      <img width="502" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=384af469-46c2-4e18-baf2-66f4a7b1ffad" >
+      <img width="502" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ffreecodecamp-card-light.png?alt=media&token=3a643267-4d24-406a-84b1-c22624374c2b" >
       </picture>
 </a>
-<br>
 <br>
   <a href="https://resilient-temper-595.notion.site/React-Course-Projects-scrimba-com-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
     <picture>
         <source media="(prefers-color-scheme: dark)" width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=10607e31-e75d-4158-8a86-a9763c47c87b">
 ">
-       <img width="502" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=10607e31-e75d-4158-8a86-a9763c47c87b">
+       <img width="502" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fscrimba-card-light.png?alt=media&token=88252afd-afd3-4f81-9a49-721ef1d24c02">
       </picture>
 </a>
 
