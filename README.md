@@ -60,7 +60,7 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-<strong>&#9776; Project List</strong>
+<h3>&#9776; Project List</h3>
 <table>
     <tr>
     <td height="50px">
@@ -169,7 +169,7 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-<h3>📁 Other Noteworthy Projects</h3>
+<h3>&#10033; Other Projects</h3>
 <a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
     <picture >
         <source  media="(prefers-color-scheme: dark)"  width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ffreecodecamp-card-dark.png?alt=media&token=ea851882-3689-4796-a318-802c72ce3bab" >
@@ -194,7 +194,7 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-## <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FHigh%20Voltage.png?alt=media&token=9e781f05-12fa-471f-8c18-16a83af268f8" width="48"></sub></sub>&ensp;Skills
+## <sub><sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FFire.png?alt=media&token=43b9b3b0-4b4a-466d-8e65-4a651a7fddc6" width="48"></sub></sub>&ensp;Skills
 <!-- ## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/critical-thinking.png" width="32"></sub></sub>&ensp;Skills -->
 
 <details open>
