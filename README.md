@@ -1,4 +1,6 @@
-# <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="72" ></sub> Hello Devs!
+# <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="72" ></sub> Hello Devs!
+<!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="72" ></sub> Hello Devs! -->
+
 
 #### I’m Cosmin, a front-end web developer. 
 
@@ -17,8 +19,8 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-
-##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
+##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FTechnologist.png?alt=media&token=f8da719f-d62f-4f2a-9325-2d8bcf8c9090" width="48"></sub></sub>&ensp;Projects
+<!-- ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects -->
 <br>
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website">
 <picture>
@@ -192,7 +194,8 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/critical-thinking.png" width="32"></sub></sub>&ensp;Skills
+## <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FHigh%20Voltage.png?alt=media&token=9e781f05-12fa-471f-8c18-16a83af268f8" width="48"></sub></sub>&ensp;Skills
+<!-- ## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/critical-thinking.png" width="32"></sub></sub>&ensp;Skills -->
 
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
@@ -214,8 +217,8 @@
 ------------------------CONTACT---------------------
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
-
-##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/chat.png" width="32"></sub></sub>&ensp;Let's connect!
+##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FLove%20Letter.png?alt=media&token=e0cbded8-75ae-4bd1-8f73-d889b7e57112" width="48"></sub></sub>&ensp;Let's connect!
+<!-- ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/chat.png" width="32"></sub></sub>&ensp;Let's connect! -->
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
