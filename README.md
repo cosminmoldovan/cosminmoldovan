@@ -2,14 +2,14 @@
 <!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="72" ></sub> Hello Devs! -->
 
 
-#### I’m Cosmin, a front-end web developer. 
+#### 👋 Hey, I'm Cosmin! I build things for the web.
 
-&mdash;&ensp;An eficient coder and self-proclaimed creative designer.<br>
-&mdash;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
-&mdash;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
-&mdash;&ensp;Respect, support and optimism are the values I like to share.
+&ensp;&ensp;&ensp;&#10022;&ensp;An eficient coder and self-proclaimed creative designer.<br>
+&ensp;&ensp;&ensp;&#10022;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
+&ensp;&ensp;&ensp;&#10022;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
+&ensp;&ensp;&ensp;&#10022;&ensp;Respect, support and optimism are the values I like to share.
 
-#### View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
+#### 🔗 View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
 <!-- 
 //////////////////////////////////////////////////////////
