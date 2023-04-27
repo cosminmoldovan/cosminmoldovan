@@ -167,9 +167,7 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-<strong>&#x2733; Other Noteworthy Projects</strong>
-<br>
-<br>
+<h3>📁 Other Noteworthy Projects</h3>
 <a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
     <picture >
         <source  media="(prefers-color-scheme: dark)"  width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ffreecodecamp-card-dark.png?alt=media&token=ea851882-3689-4796-a318-802c72ce3bab" >
