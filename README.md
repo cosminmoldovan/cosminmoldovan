@@ -9,24 +9,26 @@
 
 #### View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
-<!--
-<details>
-  <summary>Photos from my surroundings <sup>click to open</sup></summary><br>
-  <p><img title="Sibiu city" alt="Sibiu" src="https://i.postimg.cc/fTNyNjM6/sibiu.png">&emsp;<img title="Sibiu city" alt="Sibiu-Sky" src="https://i.postimg.cc/bNy7js2z/sibiu-sky.png">&emsp;<img title="Clay Castle Fairy Valley" alt="Castelul-Zanelor" src="https://i.postimg.cc/j2zjfC4g/castelul-zanelor.png">&emsp;<img title="Transfagarasan road" alt="Transfagarasan" src="https://i.postimg.cc/QxJtx9tV/transfagarasan.png">&emsp;<img title="Balea lake" alt="Balea-Lac" src="https://i.postimg.cc/SQ8R3tb6/balea-lac.png"></p>
-</details>
--->
+<!-- 
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+------------------------PROJECTS-------------------------
+------------------------PROJECTS-------------------------
+//////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////// -->
+
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects
 <br>
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website">
 <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-trendflix.png?alt=media&token=6e1c26f7-bdc5-4596-aae1-9722a9f68e77">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ftrendflix-card-dark.png?alt=media&token=1f40a70e-bb80-4af0-bde4-90380e1abe69">
   <img width="352" alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ftrendflix-card-light.png?alt=media&token=dc487cc2-035f-495c-8b04-73f55cc8e672">
 </picture>
 </a>&ensp;&ensp;
 <a href="https://cm-gamehub.vercel.app/"  title="Visit Website">
   <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-gamehub.png?alt=media&token=ac4a832d-c3e1-4d64-9226-83da94a403c0">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fgamehub-card-dark.png?alt=media&token=6c88bfc4-a01d-42f7-9b5d-bf38b60b3170">
   <img width="352" alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fgamehub-card-light.png?alt=media&token=dcb361ab-8968-4950-a7ff-442dd8fa3995">
 </picture>
 </a>
@@ -34,19 +36,29 @@
 <br>
 <a href="https://cosminmoldovan.github.io/remindme/"  title="Visit Website">
   <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-remindme.png?alt=media&token=4432e2d3-866d-420a-bfea-8da506b4c0f1">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fremindme-card-dark.png?alt=media&token=a7e9409b-aa56-4297-9327-fd5ed719acbf">
   <img width="352" alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fremindme-card-light.png?alt=media&token=23fe6a18-4095-4afa-8c28-acccfdc5c862">
 </picture>
 </a>&ensp;&ensp;
 <a href="https://cosminmoldovan.github.io/kidocode/"  title="Visit Website">
     <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/card-dark-kidocode.png?alt=media&token=21ed24b0-8238-4c15-b791-14b1f889e8a4">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fkidocode-card-dark.png?alt=media&token=c40b777e-ad09-4180-ad6c-0ba2e03c84e8">
   <img width="352" alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fkidocode-card-light.png?alt=media&token=24a664a2-50d9-4811-b5fd-55c28a7cb08a">
 </picture>
 </a>
 <br>
 <br>
 <br>
+
+<!-- 
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+------------------------PROJECT LIST---------------------
+------------------------PROJECT LIST---------------------
+//////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////// -->
+
+<strong>&#9776; Project List</strong>
 <table>
     <tr>
     <td height="50px">
@@ -146,22 +158,41 @@
   </tr>
 </table>
 <br>
-<h3>*️⃣ Other Projects</h3>
+
+<!-- 
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+------------------------OTHER PROJECTS--------------------
+------------------------OTHER PROJECTS--------------------
+//////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////// -->
+
+<strong>&#x2733; Other Noteworthy Projects</strong>
+<br>
+<br>
 <a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
     <picture >
-        <source  media="(prefers-color-scheme: dark)"  width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/freeCodeCamp-card-dark.png?alt=media&token=384af469-46c2-4e18-baf2-66f4a7b1ffad" >
+        <source  media="(prefers-color-scheme: dark)"  width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ffreecodecamp-card-dark.png?alt=media&token=ea851882-3689-4796-a318-802c72ce3bab" >
 ">
       <img width="494" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ffreecodecamp-card-light.png?alt=media&token=149553e2-563c-46dc-b4e2-b2dd6e360673" >
       </picture>
 </a>
 <br>
-  <a href="https://resilient-temper-595.notion.site/React-Course-Projects-scrimba-com-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
+ <a href="https://resilient-temper-595.notion.site/React-Course-Projects-scrimba-com-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
     <picture>
-        <source media="(prefers-color-scheme: dark)" width="502" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/scrimba-card-dark.png?alt=media&token=10607e31-e75d-4158-8a86-a9763c47c87b">
+        <source media="(prefers-color-scheme: dark)" width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fscrimba-card-dark.png?alt=media&token=4737e52f-9e8d-442f-bda9-32dc099a3d2e">
 ">
        <img width="494" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fscrimba-card-light.png?alt=media&token=3936c0d9-b81c-4def-91ee-4d2ae9714356">
       </picture>
 </a>
+
+<!-- 
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+------------------------SKILLS---------------------
+------------------------SKILLS---------------------
+//////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////// -->
 
 ## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/critical-thinking.png" width="32"></sub></sub>&ensp;Skills
 
@@ -177,6 +208,14 @@
   <summary><strong>Secondary skills</strong></summary>
   &emsp;<sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/checked.png" width="16"></sub>&ensp;<strong>Tools: </strong>VSCode &bull; Figma &bull; Linux
 </details>
+
+<!-- 
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+------------------------CONTACT---------------------
+------------------------CONTACT---------------------
+//////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////// -->
 
 ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/chat.png" width="32"></sub></sub>&ensp;Let's connect!
 
