@@ -1,7 +1,6 @@
 # <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="72" ></sub> Hello Devs!
 <!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="72" ></sub> Hello Devs! -->
 
-
 #### 👋 Hey, I'm Cosmin. I build things for the web.
 
 &#10022;&ensp;An eficient coder and self-proclaimed creative designer.<br>
@@ -20,7 +19,7 @@
 ////////////////////////////////////////////////////////// -->
 
 ##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FTechnologist.png?alt=media&token=f8da719f-d62f-4f2a-9325-2d8bcf8c9090" width="48"></sub></sub>&ensp;Projects
-<!-- ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="32"></sub></sub>&ensp;Projects -->
+<!-- ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="40"></sub></sub>&ensp;Projects -->
 <br>
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website">
 <picture>
