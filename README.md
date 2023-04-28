@@ -1,7 +1,7 @@
 # <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="72" ></sub> Hello Devs!
 <!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64" ></sub> Hello Devs! -->
 
-#### 👋 Hey, I'm Cosmin. I build things for the web.
+#### 👋 Hey, I'm Cosmin. I love building for the web.
 
 &#10022;&ensp;An eficient coder and self-proclaimed creative designer.<br>
 &#10022;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
