@@ -64,8 +64,8 @@
     <tr>
     <td height="50px">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/moldovan-logo-white.png?alt=media&token=95d8e46e-093e-4a7c-9ae8-6ed8f42d62ef">
-        <img alt="Portfolio" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/moldovan.png?alt=media&token=8b1d645f-93bb-46b1-97ad-57608d4357ba">
+        <source media="(prefers-color-scheme: dark)" height="16" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/dark-logos%2Fmoldovan-logo-dark.png?alt=media&token=b390cd65-957c-4069-8bd6-27a1e687e800" >
+        <img alt="Portfolio"  height="16" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/light-logos%2Fmoldovan-logo-light.png?alt=media&token=7436e738-060c-46c7-be43-317e343d3989">
       </picture>
     </td>
      <td>Personal Portfolio Website</td>
@@ -84,8 +84,8 @@
     <tr>
     <td height="50px">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix-logo-white.png?alt=media&token=ef401c79-2af0-4797-b2fa-1a01afc98221">
-        <img alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/trendflix.png?alt=media&token=74e57f7c-ff6c-440c-9682-1af3487e1cc4">
+        <source media="(prefers-color-scheme: dark)" height="26" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/dark-logos%2Ftrendflix-logo-dark.png?alt=media&token=20a95e0b-9e6a-4cb7-9590-ef14ed222526">
+        <img alt="TrendFlix" height="26" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/light-logos%2Ftrendflix-logo-light.png?alt=media&token=68575af2-cff8-4374-ac20-0ffc571f2838">
       </picture>
     </td>
     <td>Movie Search App with React and TMDb API</td>
@@ -104,8 +104,8 @@
   <tr>
     <td height="50px">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub-logo-white.png?alt=media&token=e4fa35a3-c66d-4e02-ab92-0400de1943d5">
-        <img alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/gamehub.png?alt=media&token=64965a53-a569-4c53-a7fc-1140568d871a">
+        <source media="(prefers-color-scheme: dark)" height="26" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/dark-logos%2Fgamehub-logo-dark.png?alt=media&token=13b4fd3a-54e4-4fff-b08d-f909e22bec18">
+        <img alt="GameHub" height="26" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/light-logos%2Fgamehub-logo-light.png?alt=media&token=9eec6c18-9974-44e3-b2d9-0ca3436e3653">
       </picture>
     </td>
     <td>Video Game Discovery App (React + TypeScript)</td>
@@ -123,8 +123,8 @@
   <tr>
     <td height="50px">
      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme-logo-white.png?alt=media&token=8539ec65-d391-4934-9607-f8897c7a66bb">
-        <img alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/remindme.png?alt=media&token=c60704f1-1c8a-4c04-8dd6-49fad8ecd1dd">
+        <source media="(prefers-color-scheme: dark)" height="26" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/dark-logos%2Fremindme-logo-dark.png?alt=media&token=a21b67da-31c0-4222-b197-73a993ce1ae3">
+        <img alt="Remindme"  height="26" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/light-logos%2Fremindme-logo-light.png?alt=media&token=ef995650-390f-493b-bf68-876baa3e08ea">
       </picture>
     </td>
     <td>Responsive Landing Page for Mobile App</td>
@@ -142,8 +142,8 @@
   <tr>
     <td height="50px">
      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode-logo-white.png?alt=media&token=18dbfd39-096b-42e1-938a-beff5dc68e2d">
-        <img alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/kidocode.png?alt=media&token=e876df23-a394-4764-a526-9dc13216bacf">
+        <source media="(prefers-color-scheme: dark)" height="26" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/dark-logos%2Fkidocode-logo-dark.png?alt=media&token=60f61ca2-647c-4d7a-adf1-15373d72408b">
+        <img alt="KidoCode" height="26" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/light-logos%2Fkidocode-logo-light.png?alt=media&token=15d369ff-adb5-4fb5-9f17-62c707b6d2b9">
       </picture>
     </td>
     <td>Educational Coding Game for Kids</td>
