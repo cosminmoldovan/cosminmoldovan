@@ -6,7 +6,7 @@
 &#10022;&ensp;An eficient coder and self-proclaimed creative designer.<br>
 &#10022;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
 &#10022;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
-&#10022;&ensp;Respect, support and optimism are the values I like to share.
+&#10022;&ensp;Respect, support and optimism are my core values.
 
 #### View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
