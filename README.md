@@ -169,7 +169,7 @@
 
 <!-- <h3>&#10033; Other Projects</h3> -->
 <h3>Other Projects</h3>
-<a href="https://resilient-temper-595.notion.site/Responsive-Web-Design-Certification-Projects-freeCodeCamp-org-ddbdc6cd5c824bebb57a7bb3ea7a1b4a" title="View Projects">
+<a href="https://cosminmoldovan.slite.page/p/PP-SujjcwZsU6G/Certification-freeCodeCamp" title="View Projects">
     <picture >
         <source  media="(prefers-color-scheme: dark)"  width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ffreecodecamp-card-dark.png?alt=media&token=ea851882-3689-4796-a318-802c72ce3bab">
       <img width="494" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ffreecodecamp-card-light.png?alt=media&token=149553e2-563c-46dc-b4e2-b2dd6e360673" >
