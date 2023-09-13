@@ -23,28 +23,28 @@
 <br>
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website">
 <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ftrendflix-card-dark.png?alt=media&token=1f40a70e-bb80-4af0-bde4-90380e1abe69">
-  <img width="352" alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ftrendflix-card-light.png?alt=media&token=dc487cc2-035f-495c-8b04-73f55cc8e672">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ftrendflix-card-dark.png?alt=media&token=3361bc1e-3c6c-446f-9644-05659d8163bd">
+  <img width="352" alt="TrendFlix" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ftrendflix-card.png?alt=media&token=40cc1e00-ea91-4765-8fe9-8960e04ce9c4">
 </picture>
 </a>&ensp;&ensp;
 <a href="https://cm-gamehub.vercel.app/"  title="Visit Website">
   <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fgamehub-card-dark.png?alt=media&token=6c88bfc4-a01d-42f7-9b5d-bf38b60b3170">
-  <img width="352" alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fgamehub-card-light.png?alt=media&token=dcb361ab-8968-4950-a7ff-442dd8fa3995">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fgamehub-card-dark.png?alt=media&token=41ac4e46-924a-4ccf-9b23-aa090fc0341a">
+  <img width="352" alt="GameHub" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fgamehub-card.png?alt=media&token=714655f8-0d23-4f1b-a7ad-7c0581a1c668">
 </picture>
 </a>
 <br>
 <br>
 <a href="https://cosminmoldovan.github.io/remindme/"  title="Visit Website">
   <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fremindme-card-dark.png?alt=media&token=a7e9409b-aa56-4297-9327-fd5ed719acbf">
-  <img width="352" alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fremindme-card-light.png?alt=media&token=23fe6a18-4095-4afa-8c28-acccfdc5c862">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fremindme-card-dark.png?alt=media&token=b2996c57-f60d-434f-942d-8df30f8a4b1c">
+  <img width="352" alt="Remindme" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fremindme-card.png?alt=media&token=dd04d169-dfb2-4183-90b1-b4593c7d3c2d">
 </picture>
 </a>&ensp;&ensp;
 <a href="https://cosminmoldovan.github.io/kidocode/"  title="Visit Website">
     <picture>
-  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fkidocode-card-dark.png?alt=media&token=c40b777e-ad09-4180-ad6c-0ba2e03c84e8">
-  <img width="352" alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fkidocode-card-light.png?alt=media&token=24a664a2-50d9-4811-b5fd-55c28a7cb08a">
+  <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fkidocode-card-dark.png?alt=media&token=0e1f5de8-256f-4c44-9f3f-8449b1268d1c">
+  <img width="352" alt="KidoCode" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fkidocode-card.png?alt=media&token=b5ff21f5-282c-46b3-b2e3-ec022cd02e81">
 </picture>
 </a>
 <br>
