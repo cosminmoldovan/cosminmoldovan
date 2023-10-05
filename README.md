@@ -1,14 +1,14 @@
 # <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="64" ></sub> Hello Devs!
 <!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64" ></sub> Hello Devs! -->
 
-#### 👋 Hey, I'm Cosmin. I love building for the web.
+<strong>👋 Hey, I'm Cosmin. I love building for the web.</strong>
 
 &#10022;&ensp;An eficient coder and self-proclaimed creative designer.<br>
 &#10022;&ensp;I enjoy designing friendly UIs  and translate them into pixel-perfect web apps.<br>
 &#10022;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
 &#10022;&ensp;Respect, support and optimism are my core values.
 
-#### View my [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
+<strong> View my</strong> [Portfolio](https://cosminmoldovan.github.io) &bull; [Resume](https://cosminmoldovan.github.io/Cosmin_Moldovan_Resume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
 <!-- 
 //////////////////////////////////////////////////////////
