@@ -1,4 +1,4 @@
-# <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="64" ></sub> Hello Devs!
+<!-- # <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="64" ></sub> Hello Devs! -->
 <!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64" ></sub> Hello Devs! -->
 
 <strong>👋 Hey, I'm Cosmin. I love building for the web.</strong>
@@ -18,9 +18,10 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FTechnologist.png?alt=media&token=f8da719f-d62f-4f2a-9325-2d8bcf8c9090" width="48"></sub></sub>&ensp;Projects
+<!--##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FTechnologist.png?alt=media&token=f8da719f-d62f-4f2a-9325-2d8bcf8c9090" width="48"></sub></sub>&ensp;Projects -->
+<h2>💼&ensp;Projects</h2>
 <!-- ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/hard-working.png" width="40"></sub></sub>&ensp;Projects -->
-<br>
+<!-- <br>
 <a href="https://cosminmoldovan.github.io/trendflix/" title="Visit Website">
 <picture>
   <source media="(prefers-color-scheme: dark)" width="352" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ftrendflix-card-dark.png?alt=media&token=3361bc1e-3c6c-446f-9644-05659d8163bd">
@@ -48,7 +49,7 @@
 </picture>
 </a>
 <br>
-<br>
+<br> -->
 
 <!-- 
 //////////////////////////////////////////////////////////
@@ -59,7 +60,6 @@
 ////////////////////////////////////////////////////////// -->
 
 <!-- <h3>&#9776; Project List</h3> -->
-<h3>Project List</h3>
 <table>
     <tr>
     <td height="50px">
@@ -191,9 +191,9 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-## <sub><sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FFire.png?alt=media&token=43b9b3b0-4b4a-466d-8e65-4a651a7fddc6" width="48"></sub></sub>&ensp;Skills
-<!-- ## <sub><sub><img src = "https://img.icons8.com/fluency/96/null/critical-thinking.png" width="32"></sub></sub>&ensp;Skills -->
 
+<!--## <sub><sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FFire.png?alt=media&token=43b9b3b0-4b4a-466d-8e65-4a651a7fddc6" width="48"></sub></sub>&ensp;Skills -->
+<h2>🔥&ensp;Skills</h2>
 <details open>
   <summary><strong>Primary skills</strong></summary><br>
   &emsp;<sub><img src="https://i.postimg.cc/grFZVxYh/checked.png" width="16"></sub>&ensp;<strong>Frontend: </strong>HTML5 &bull;  CSS3 &bull; JavaScript &bull; React<br>
@@ -215,8 +215,8 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FLove%20Letter.png?alt=media&token=e0cbded8-75ae-4bd1-8f73-d889b7e57112" width="48"></sub></sub>&ensp;Let's connect!
-<!-- ##  <sub><sub><img src = "https://img.icons8.com/fluency/96/null/chat.png" width="32"></sub></sub>&ensp;Let's connect! -->
+<h2>💌&ensp;Let's connect!</h2>
+<!-- ##  <sub><sub><img src = "https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FLove%20Letter.png?alt=media&token=e0cbded8-75ae-4bd1-8f73-d889b7e57112" width="48"></sub></sub>&ensp;Let's connect! -->
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
