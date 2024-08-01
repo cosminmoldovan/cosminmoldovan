@@ -168,14 +168,14 @@
 
 <!-- <h3>&#10033; Other Projects</h3> -->
 <h3>Other Projects</h3>
-<a href="https://cosminmoldovan.slite.page/p/PP-SujjcwZsU6G/Certification-freeCodeCamp" title="View Projects">
+<a href="https://cosminmoldovan.notion.site/Web-Design-Certification-f2ebb6a490dc4e4792ea705a8fd7c242" title="View Projects">
     <picture >
         <source  media="(prefers-color-scheme: dark)"  width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Ffreecodecamp-card-dark.png?alt=media&token=ea851882-3689-4796-a318-802c72ce3bab">
       <img width="494" alt="FreeCodeCamp Projects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Ffreecodecamp-card-light.png?alt=media&token=149553e2-563c-46dc-b4e2-b2dd6e360673" >
       </picture>
 </a>
 <br>
- <a href="https://cosminmoldovan.slite.page/p/UpXehq_EMMVLad/React-Projects" title="View Projects">
+ <a href="https://cosminmoldovan.notion.site/React-Projects-2a1b47f9399342c4bb6479a909a34196" title="View Projects">
     <picture>
         <source media="(prefers-color-scheme: dark)" width="494" srcset="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-dark%2Fscrimba-card-dark.png?alt=media&token=0aeac65e-2e8d-4802-9279-ab8472c84c62">
        <img width="494" alt="Scrimba React Pojects" src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/cards-light%2Fscrimba-card-light.png?alt=media&token=0ea62a7d-6b1f-4489-8751-e402292b63f7">
