@@ -1,5 +1,6 @@
 <!-- # <sub><img src="https://firebasestorage.googleapis.com/v0/b/cmdrive-f2810.appspot.com/o/icons%2FRocket.png?alt=media&token=663b4acb-eedd-4b80-bf31-52def2bf3fd5" width="64" ></sub> Hello Devs! -->
 <!-- # <sub><img src="https://cosminmoldovan.github.io/gitdrive/gh-profile/rocket.gif" width="64" ></sub> Hello Devs! -->
+ <h1>Profile under construction because Firebase no longer offers free image storage :)</h1>
 
 <strong>👋 Hey, I'm Cosmin. I love building for the web.</strong>
 
