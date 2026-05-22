@@ -8,7 +8,7 @@
 &#10022;&ensp;I have an eye for detail and a passion for aesthetics and functionality.<br>
 &#10022;&ensp;Respect, support and optimism are my core values.
 
-<strong> View my</strong> [Portfolio](https://cosminmoldovan.github.io](https://cosmin.onesingle.link) &bull; [Resume](https://cosmin.onesingle.link/wp-content/uploads/2026/05/Cosmin-Moldovan-CV.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
+<strong> View my</strong> [Portfolio](https://cosmin.onesingle.link) &bull; [Resume](https://cosmin.onesingle.link/wp-content/uploads/2026/05/Cosmin-Moldovan-CV.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/cosmin-moldovan)
 
 <!-- 
 //////////////////////////////////////////////////////////
