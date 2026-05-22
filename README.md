@@ -104,7 +104,7 @@
 //////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////// -->
 
-##  <sub><sub><img src = "https://cosmin.onesingle.link/wp-content/uploads/2026/05/Telephone-Receiver.png" width="48"></sub></sub>&ensp;Let's connect!
+##  <sub><sub><img src = "https://cosmin.onesingle.link/wp-content/uploads/2026/05/Compass.png" width="48"></sub></sub>&ensp;Let's connect!
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cosmin-moldovan/)
 
